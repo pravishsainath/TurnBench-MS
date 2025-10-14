@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Game List</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="flex justify-center min-h-screen">
+  <table class="table mt-8">
+    <thead>
+      <tr>
+        <th>Finished?</th>
+        <th>Game ID</th>
+        <th>Difficulty</th>
+        <th>Verifiers</th>
+        <th>Mode</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for game in games %}
+      <tr>
+        <td>{{ '✅' if game.finished else '❌' }}</td>
+        <td>{{ game.game_setup_id }}</td>
+        <td>{{ game.difficulty }}</td>
+        <td>{{ game.number_of_verifiers }}</td>
+        <td>{{ game.mode }}</td>
+        <td>
+          <form action="/select-game" method="post">
+            <input type="hidden" name="game_id" value="{{ game.game_setup_id }}">
+            <button type="submit" class="button">Start</button>
+          </form>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</body>
+</html>

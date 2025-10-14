@@ -1,0 +1,179 @@
+/* Tailwind-like utility classes */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    background-color: #f9fafb;
+  }
+  
+  .flex { display: flex; }
+  .flex-col { flex-direction: column; }
+  .items-center { align-items: center; }
+  .justify-center { justify-content: center; }
+  .justify-end { justify-content: flex-end; } /* Added */
+  .justify-between { justify-content: space-between; } /* Added */
+  
+  .h-screen { height: 100vh; }
+  .h-\[10vh\] { height: 10vh; } /* Added for top bar */
+  .h-\[90vh\] { height: 90vh; } /* Added for bottom section */
+
+  .flex-grow { flex-grow: 1; } /* Added base flex-grow */
+  .flex-grow-\[1\] { flex-grow: 1; } /* Explicit grow factors */
+  .flex-grow-\[3\] { flex-grow: 3; }
+  .flex-grow-\[4\] { flex-grow: 4; }
+  .flex-shrink-0 { flex-shrink: 0; } /* Added */
+
+  .w-1\/4 { width: 25%; }
+  .w-3\/10 { width: 30%; } /* Added */
+  .w-7\/10 { width: 70%; } /* Added */
+  .w-2\/10 { width: 20%; } /* Added */
+  .w-8\/10 { width: 80%; } /* Added */
+  .w-full { width: 100%; } /* Added */
+  
+  .gap-2 { gap: 0.5rem; } /* Added */
+  .gap-4 { gap: 1rem; }
+  
+  .p-2 { padding: 0.5rem; } /* Added */
+  .p-3 { padding: 0.75rem; } /* Added */
+  .p-4 { padding: 1rem; } /* Added */
+  .pb-2 { padding-bottom: 0.5rem; } /* Added */
+  .pr-2 { padding-right: 0.5rem; } /* Added for scrollbar space */
+  .pt-3 { padding-top: 0.75rem; } /* Added */
+
+  .mb-1 { margin-bottom: 0.25rem; } /* Added */
+  .mb-3 { margin-bottom: 0.75rem; } /* Added */
+  .mb-4 { margin-bottom: 1rem; } /* Added */
+  .mt-auto { margin-top: auto; } /* Added */
+  .mx-auto { margin-left: auto; margin-right: auto; } /* Added */
+  
+  .text-sm { font-size: 0.875rem; } /* Added */
+  .text-lg { font-size: 1.125rem; }
+  .text-xl { font-size: 1.25rem; } /* Added */
+  .text-center { text-align: center; } /* Added */
+  .text-right { text-align: right; } /* Added */
+  
+  .font-medium { font-weight: 500; } /* Added */
+  .font-semibold { font-weight: 600; } /* Added */
+  
+  .text-gray-600 { color: #4b5563; } /* Added */
+  .text-gray-700 { color: #374151; } /* Added */
+  .text-blue-800 { color: #1e40af; } /* Added */
+
+  .input, .textarea { /* Combined styles */
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.375rem;
+    font-size: 0.875rem; /* Adjusted default size */
+    line-height: 1.25rem; /* Adjusted line height */
+  }
+  .textarea {
+      resize: vertical; /* Allow only vertical resize if needed, or none */
+  }
+  .textarea.resize-none { resize: none; } /* Added */
+
+  
+  .button {
+    padding: 0.5rem 1rem;
+    background-color: #3b82f6;
+    color: white;
+    font-size: 0.875rem; /* Adjusted button font size */
+    border: none;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  .button:hover { background-color: #2563eb; }
+
+  /* Badges */
+  .badge-blue {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: 0.875em;
+    font-weight: 600;
+    line-height: 1;
+    color: #1e40af; /* Darker blue */
+    background-color: #dbeafe; /* Lighter blue */
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.375rem;
+  }
+
+ .badge-gray {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: 0.875em;
+    font-weight: 600;
+    line-height: 1;
+    color: #374151; /* Darker gray */
+    background-color: #e5e7eb; /* Lighter gray */
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.375rem;
+  }
+  
+  /* Borders */
+  .border { border-width: 1px; border-color: #e5e7eb; } /* Added */
+  .border-b { border-bottom-width: 1px; border-color: #e5e7eb; } /* Added */
+  .border-r { border-right-width: 1px; border-color: #e5e7eb; } /* Added */
+  .border-t { border-top-width: 1px; border-color: #e5e7eb; } /* Added */
+  .border-blue-200 { border-color: #bfdbfe; } /* Added */
+  
+  /* Backgrounds */
+  .bg-white { background-color: #ffffff; } /* Added */
+  .bg-gray-50 { background-color: #f9fafb; } /* Added */
+  .bg-gray-100 { background-color: #f3f4f6; } /* Added */
+  .bg-blue-50 { background-color: #eff6ff; } /* Added */
+
+  /* Rounded Corners */
+  .rounded { border-radius: 0.375rem; } /* Added */
+
+  /* Shadows */
+  .shadow-sm { box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05); } /* Added */
+  .shadow { box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1); } /* Added */
+  .shadow-inner { box-shadow: inset 0 2px 4px 0 rgb(0 0 0 / 0.05); } /* Added */
+
+  /* Overflow */
+  .overflow-auto { overflow: auto; } /* Added */
+  .overflow-hidden { overflow: hidden; } /* Added */
+
+  /* Typography (Basic Prose styles for verifier details) */
+  .prose { color: #374151; line-height: 1.6; }
+  .prose b, .prose strong { font-weight: 600; }
+  .prose p { margin-bottom: 1em; }
+  .prose-sm { font-size: 0.875rem; line-height: 1.5; }
+  .max-w-none { max-width: none; } /* Added */
+
+  /* Table styles (remain unchanged, not used on this page) */
+  .table { width: 80%; border-collapse: collapse; margin-left: auto; margin-right: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); background-color: white; border-radius: 0.375rem; overflow: hidden; }
+  .table th, .table td { border: 1px solid #e5e7eb; padding: 0.75rem 1rem; text-align: left; vertical-align: middle; }
+  .table thead th { background-color: #f3f4f6; font-weight: 600; color: #374151; }
+  .table tbody tr:nth-child(even) { background-color: #f9fafb; }
+  .table tbody tr:hover { background-color: #eff6ff; }
+  .table caption { caption-side: top; padding: 1rem; text-align: center; }
+  
+  /* Whitespace control */
+  .whitespace-pre-wrap { white-space: pre-wrap; } /* Preserve whitespace and wrap lines */
+  
+  /* Text Colors for Results */
+  .text-green-600 { color: #059669; } /* Added */
+  .text-red-600 { color: #dc2626; } /* Added */
+
+  /* Border Colors for Results */
+  .border-green-400 { border-color: #34d399; } /* Added */
+  .border-red-400 { border-color: #f87171; } /* Added */
+  .border-gray-300 { border-color: #d1d5db; } /* Added */
+
+  /* Background Colors for Results */
+  .bg-green-50 { background-color: #ecfdf5; } /* Added */
+  .bg-red-50 { background-color: #fef2f2; } /* Added */
+
+  /* Max Height */
+  .max-h-\[25vh\] { max-height: 25vh; } /* Added: Max height 25% of viewport height */
+
+  /* Flex Basis */
+  .flex-basis-0 { flex-basis: 0; }
+  

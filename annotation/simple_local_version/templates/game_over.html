@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game Over - {{ game_id }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="flex flex-col items-center justify-center h-screen bg-gray-100 gap-8">
+    
+    <div class="text-center bg-white p-8 rounded shadow-lg">
+        <h1 class="text-4xl font-bold mb-4">
+            {% if guess_correct %}
+                <span class="text-green-600">Congratulations! You guessed correctly!</span>
+            {% elif game_over_reason == 'max_rounds_reached' %}
+                <span class="text-orange-600">Game Over - Maximum Rounds Reached</span>
+            {% else %}
+                <span class="text-red-600">Game Over - Incorrect Guess</span>
+            {% endif %}
+        </h1>
+        
+        <p class="text-lg text-gray-700 mb-2">Game ID: {{ game_id }}</p>
+        {% if submitted_code %}
+        <p class="text-lg text-gray-700 mb-2">Your Guess: {{ submitted_code }}</p>
+        {% endif %}
+        {% if answer %}
+        <p class="text-lg text-gray-700 mb-6">Correct Answer: {{ answer }}</p>
+        {% endif %}
+        <p class="text-lg text-gray-700 mb-6">Total Time: {{ total_time_str }}</p>
+    </div>
+
+    <form action="/game-list" method="get">
+        <button type="submit" class="button text-lg">Return to Game List</button>
+    </form>
+
+</body>
+</html> 

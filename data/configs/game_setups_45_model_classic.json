@@ -1,0 +1,1422 @@
+{
+  "A4XOF": {
+    "verifier_ids": [
+      2,
+      6,
+      14,
+      16
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      0,
+      1
+    ],
+    "answer": "345",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      2,
+      14,
+      6,
+      16
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  "A4AXW8": {
+    "verifier_ids": [
+      6,
+      8,
+      14,
+      17
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "answer": "345",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      14,
+      6,
+      8,
+      17
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "A46B6P": {
+    "verifier_ids": [
+      1,
+      9,
+      13,
+      14
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "answer": "245",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      9,
+      13,
+      1,
+      14
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  "A4B368": {
+    "verifier_ids": [
+      6,
+      10,
+      11,
+      17
+    ],
+    "active_criteria_ids": [
+      0,
+      2,
+      2,
+      2
+    ],
+    "answer": "544",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      10,
+      17,
+      11,
+      6
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      2,
+      2,
+      0
+    ]
+  },
+  "A4W9M": {
+    "verifier_ids": [
+      2,
+      6,
+      12,
+      14
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "answer": "323",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      2,
+      12,
+      6,
+      14
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  "A51E71T": {
+    "verifier_ids": [
+      2,
+      9,
+      12,
+      14,
+      17
+    ],
+    "active_criteria_ids": [
+      2,
+      0,
+      1,
+      1,
+      2
+    ],
+    "answer": "414",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      9,
+      2,
+      14,
+      12,
+      17
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      2,
+      1,
+      1,
+      2
+    ]
+  },
+  "A51DLGK": {
+    "verifier_ids": [
+      2,
+      6,
+      10,
+      13,
+      17
+    ],
+    "active_criteria_ids": [
+      2,
+      1,
+      1,
+      0,
+      2
+    ],
+    "answer": "412",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      2,
+      13,
+      6,
+      10,
+      17
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  "A51V92Z": {
+    "verifier_ids": [
+      2,
+      7,
+      8,
+      13,
+      16
+    ],
+    "active_criteria_ids": [
+      0,
+      1,
+      0,
+      2,
+      0
+    ],
+    "answer": "243",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      2,
+      8,
+      7,
+      16,
+      13
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  "A51KOOR": {
+    "verifier_ids": [
+      3,
+      7,
+      9,
+      12,
+      15
+    ],
+    "active_criteria_ids": [
+      2,
+      0,
+      1,
+      0,
+      1
+    ],
+    "answer": "354",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      12,
+      9,
+      15,
+      3,
+      7
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      1,
+      1,
+      2,
+      0
+    ]
+  },
+  "A520VJX": {
+    "verifier_ids": [
+      3,
+      7,
+      8,
+      12,
+      14
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "answer": "524",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+      7,
+      14,
+      8,
+      3,
+      12
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      1,
+      0,
+      0,
+      2
+    ]
+  },
+  "B41F7Z": {
+    "verifier_ids": [
+      2,
+      12,
+      17,
+      20
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      2,
+      2
+    ],
+    "answer": "324",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      12,
+      17,
+      2,
+      20
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      2,
+      1,
+      2
+    ]
+  },
+  "B47LGA": {
+    "verifier_ids": [
+      3,
+      11,
+      17,
+      22
+    ],
+    "active_criteria_ids": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "answer": "544",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      11,
+      3,
+      17,
+      22
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  "B4B9H6": {
+    "verifier_ids": [
+      7,
+      9,
+      14,
+      19
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      1,
+      2
+    ],
+    "answer": "524",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      9,
+      14,
+      7,
+      19
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      1,
+      0,
+      2
+    ]
+  },
+  "B46D5R": {
+    "verifier_ids": [
+      1,
+      10,
+      16,
+      22
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "answer": "345",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      10,
+      1,
+      16,
+      22
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  "B48NLN": {
+    "verifier_ids": [
+      2,
+      13,
+      17,
+      20
+    ],
+    "active_criteria_ids": [
+      0,
+      1,
+      3,
+      1
+    ],
+    "answer": "244",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      20,
+      2,
+      17,
+      13
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      0,
+      3,
+      1
+    ]
+  },
+  "B5RKL5": {
+    "verifier_ids": [
+      3,
+      7,
+      10,
+      12,
+      18
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    "answer": "534",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      7,
+      12,
+      10,
+      3,
+      18
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      2,
+      1,
+      1,
+      0
+    ]
+  },
+  "B5S1WF": {
+    "verifier_ids": [
+      3,
+      7,
+      9,
+      12,
+      22
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      1,
+      0,
+      2
+    ],
+    "answer": "435",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      3,
+      9,
+      7,
+      12,
+      22
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      1,
+      0,
+      2
+    ]
+  },
+  "B52BY19": {
+    "verifier_ids": [
+      5,
+      8,
+      11,
+      14,
+      18
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      0,
+      2,
+      1
+    ],
+    "answer": "452",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      14,
+      11,
+      5,
+      8,
+      18
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "B5SO6O": {
+    "verifier_ids": [
+      3,
+      12,
+      17,
+      19,
+      21
+    ],
+    "active_criteria_ids": [
+      1,
+      2,
+      0,
+      2,
+      1
+    ],
+    "answer": "533",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      12,
+      21,
+      17,
+      19,
+      3
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      1,
+      0,
+      2,
+      1
+    ]
+  },
+  "B526A8M": {
+    "verifier_ids": [
+      4,
+      15,
+      17,
+      19,
+      21
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      2,
+      2,
+      1
+    ],
+    "answer": "522",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      21,
+      4,
+      15,
+      19,
+      17
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      0,
+      0,
+      2,
+      2
+    ]
+  },
+  "B64XOHT": {
+    "verifier_ids": [
+      3,
+      6,
+      8,
+      16,
+      19,
+      20
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+    ],
+    "answer": "124",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      20,
+      3,
+      8,
+      19,
+      16,
+      6
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  "B650TQZ": {
+    "verifier_ids": [
+      4,
+      5,
+      8,
+      13,
+      18,
+      20
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      1,
+      2,
+      1,
+      2
+    ],
+    "answer": "421",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      13,
+      20,
+      4,
+      5,
+      8,
+      18
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      2,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  "B63Z4F4": {
+    "verifier_ids": [
+      2,
+      6,
+      10,
+      17,
+      19,
+      20
+    ],
+    "active_criteria_ids": [
+      2,
+      1,
+      0,
+      1,
+      2,
+      2
+    ],
+    "answer": "532",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      19,
+      20,
+      10,
+      17,
+      6,
+      2
+    ],
+    "nightmare_active_criteria_ids": [
+      2,
+      2,
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  "B64YCGM": {
+    "verifier_ids": [
+      3,
+      5,
+      9,
+      11,
+      17,
+      21
+    ],
+    "active_criteria_ids": [
+      0,
+      1,
+      0,
+      2,
+      2,
+      1
+    ],
+    "answer": "522",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      5,
+      11,
+      3,
+      17,
+      21,
+      9
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      2,
+      0,
+      2,
+      1,
+      0
+    ]
+  },
+  "B63T91P": {
+    "verifier_ids": [
+      1,
+      7,
+      9,
+      11,
+      15,
+      19
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    "answer": "225",
+    "difficulty": "medium",
+    "nightmare_verifier_ids": [
+      19,
+      9,
+      7,
+      15,
+      1,
+      11
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  "C4DG3Y": {
+    "verifier_ids": [
+      19,
+      25,
+      36,
+      42
+    ],
+    "active_criteria_ids": [
+      2,
+      1,
+      1,
+      0
+    ],
+    "answer": "354",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      42,
+      36,
+      25,
+      19
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  "C42DZ7": {
+    "verifier_ids": [
+      8,
+      23,
+      28,
+      42
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "answer": "312",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      8,
+      28,
+      42,
+      23
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "C466G4": {
+    "verifier_ids": [
+      1,
+      35,
+      40,
+      47
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      3,
+      1
+    ],
+    "answer": "221",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      47,
+      40,
+      1,
+      35
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      3,
+      1,
+      1
+    ]
+  },
+  "C41M3K": {
+    "verifier_ids": [
+      8,
+      25,
+      30,
+      39
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      0,
+      5
+    ],
+    "answer": "412",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      8,
+      25,
+      30,
+      39
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      0,
+      5
+    ]
+  },
+  "C42TK8": {
+    "verifier_ids": [
+      12,
+      16,
+      29,
+      41
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      1,
+      6
+    ],
+    "answer": "232",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      16,
+      41,
+      29,
+      12
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      6,
+      1,
+      1
+    ]
+  },
+  "C5J2MJ": {
+    "verifier_ids": [
+      7,
+      27,
+      29,
+      35,
+      36
+    ],
+    "active_criteria_ids": [
+      0,
+      2,
+      0,
+      1,
+      0
+    ],
+    "answer": "342",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      36,
+      29,
+      27,
+      35,
+      7
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      2,
+      1,
+      0
+    ]
+  },
+  "C5H4P0": {
+    "verifier_ids": [
+      16,
+      19,
+      28,
+      44,
+      48
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      0,
+      4,
+      7
+    ],
+    "answer": "133",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      48,
+      28,
+      16,
+      19,
+      44
+    ],
+    "nightmare_active_criteria_ids": [
+      7,
+      0,
+      1,
+      0,
+      4
+    ]
+  },
+  "C5H5G9": {
+    "verifier_ids": [
+      2,
+      20,
+      23,
+      39,
+      46
+    ],
+    "active_criteria_ids": [
+      1,
+      2,
+      2,
+      2,
+      3
+    ],
+    "answer": "315",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      46,
+      39,
+      20,
+      2,
+      23
+    ],
+    "nightmare_active_criteria_ids": [
+      3,
+      2,
+      2,
+      1,
+      2
+    ]
+  },
+  "C5XBNC": {
+    "verifier_ids": [
+      21,
+      32,
+      39,
+      43,
+      46
+    ],
+    "active_criteria_ids": [
+      1,
+      0,
+      4,
+      4,
+      3
+    ],
+    "answer": "511",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      21,
+      32,
+      39,
+      43,
+      46
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      0,
+      4,
+      4,
+      3
+    ]
+  },
+  "C5QL1I": {
+    "verifier_ids": [
+      2,
+      13,
+      24,
+      29,
+      33
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      1,
+      1,
+      4
+    ],
+    "answer": "134",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      24,
+      33,
+      13,
+      29,
+      2
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      4,
+      0,
+      1,
+      0
+    ]
+  },
+  "C64RK1Q": {
+    "verifier_ids": [
+      22,
+      24,
+      26,
+      43,
+      45,
+      48
+    ],
+    "active_criteria_ids": [
+      2,
+      1,
+      2,
+      1,
+      3,
+      7
+    ],
+    "answer": "122",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      45,
+      48,
+      24,
+      26,
+      22,
+      43
+    ],
+    "nightmare_active_criteria_ids": [
+      3,
+      7,
+      1,
+      2,
+      2,
+      1
+    ]
+  },
+  "C64Q3Z2": {
+    "verifier_ids": [
+      5,
+      23,
+      25,
+      33,
+      40,
+      42
+    ],
+    "active_criteria_ids": [
+      1,
+      2,
+      1,
+      4,
+      0,
+      3
+    ],
+    "answer": "154",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      33,
+      23,
+      42,
+      40,
+      5,
+      25
+    ],
+    "nightmare_active_criteria_ids": [
+      4,
+      2,
+      3,
+      0,
+      1,
+      1
+    ]
+  },
+  "C64EJ6M": {
+    "verifier_ids": [
+      3,
+      10,
+      31,
+      33,
+      35,
+      36
+    ],
+    "active_criteria_ids": [
+      0,
+      0,
+      2,
+      4,
+      0,
+      2
+    ],
+    "answer": "212",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      3,
+      35,
+      36,
+      31,
+      33,
+      10
+    ],
+    "nightmare_active_criteria_ids": [
+      0,
+      0,
+      2,
+      2,
+      4,
+      0
+    ]
+  },
+  "C651C17": {
+    "verifier_ids": [
+      4,
+      18,
+      33,
+      43,
+      46,
+      48
+    ],
+    "active_criteria_ids": [
+      0,
+      1,
+      4,
+      5,
+      0,
+      7
+    ],
+    "answer": "522",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      18,
+      33,
+      4,
+      48,
+      46,
+      43
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      4,
+      0,
+      7,
+      0,
+      5
+    ]
+  },
+  "C63H9J7": {
+    "verifier_ids": [
+      10,
+      14,
+      25,
+      33,
+      35,
+      41
+    ],
+    "active_criteria_ids": [
+      1,
+      1,
+      1,
+      3,
+      2,
+      7
+    ],
+    "answer": "214",
+    "difficulty": "hard",
+    "nightmare_verifier_ids": [
+      25,
+      14,
+      33,
+      35,
+      41,
+      10
+    ],
+    "nightmare_active_criteria_ids": [
+      1,
+      1,
+      3,
+      2,
+      7,
+      1
+    ]
+  },
+  "A5SOID": {
+    "verifier_ids": [
+        3,
+        7,
+        8,
+        11,
+        17
+    ],
+    "active_criteria_ids": [
+        1,
+        1,
+        1,
+        0,
+        1
+    ],
+    "answer": "231",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+        8,
+        11,
+        17,
+        7,
+        3
+    ],
+    "nightmare_active_criteria_ids": [
+        1,
+        0,
+        1,
+        1,
+        1
+    ]
+},
+"A5UTBT": {
+    "verifier_ids": [
+        4,
+        5,
+        8,
+        13,
+        14
+    ],
+    "active_criteria_ids": [
+        1,
+        1,
+        0,
+        1,
+        0
+    ],
+    "answer": "344",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+        5,
+        13,
+        14,
+        4,
+        8
+    ],
+    "nightmare_active_criteria_ids": [
+        1,
+        1,
+        0,
+        1,
+        0
+    ]
+},
+"A51VKYW": {
+    "verifier_ids": [
+        2,
+        8,
+        13,
+        14,
+        16
+    ],
+    "active_criteria_ids": [
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "answer": "244",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+        2,
+        16,
+        14,
+        13,
+        8
+    ],
+    "nightmare_active_criteria_ids": [
+        0,
+        0,
+        0,
+        1,
+        0
+    ]
+},
+"A5WNJE": {
+    "verifier_ids": [
+        4,
+        5,
+        8,
+        12,
+        15
+    ],
+    "active_criteria_ids": [
+        2,
+        1,
+        0,
+        1,
+        1
+    ],
+    "answer": "353",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+        12,
+        15,
+        4,
+        5,
+        8
+    ],
+    "nightmare_active_criteria_ids": [
+        1,
+        1,
+        2,
+        1,
+        0
+    ]
+},
+"A518FK8": {
+    "verifier_ids": [
+        1,
+        7,
+        13,
+        14,
+        16
+    ],
+    "active_criteria_ids": [
+        1,
+        0,
+        2,
+        0,
+        0
+    ],
+    "answer": "254",
+    "difficulty": "easy",
+    "nightmare_verifier_ids": [
+        7,
+        13,
+        1,
+        16,
+        14
+    ],
+    "nightmare_active_criteria_ids": [
+        0,
+        2,
+        1,
+        0,
+        0
+    ]
+  }
+}

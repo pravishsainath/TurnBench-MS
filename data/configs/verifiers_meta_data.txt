@@ -1,0 +1,374 @@
+1
+This Verifier verifies the BLUE number compared to 1
+
+BLUE is equal to 1
+BLUE is greater than 1
+
+2
+This Verifier verifies the BLUE number compared to 3
+
+BLUE is less than 3
+BLUE is equal to 3
+BLUE is greater than 3
+
+3
+This Verifier verifies the YELLOW number compared to 3
+
+YELLOW is less than 3
+YELLOW is equal to 3
+YELLOW is greater than 3
+
+4
+This Verifier verifies the YELLOW number compared to 4
+
+YELLOW is less than 4
+YELLOW is equal to 4
+YELLOW is greater than 4
+
+5
+This Verifier verifies if BLUE number is even or odd
+
+BLUE is even
+BLUE is odd
+
+6
+This Verifier verifies if YELLOW number is even or odd
+
+YELLOW is even
+YELLOW is odd
+
+7
+This Verifier verifies if PURPLE number is even or odd
+
+PURPLE is even
+PURPLE is odd
+
+8
+This Verifier verifies the number of 1s in the code
+
+zero 1s, such as 222
+one 1, such as 125
+two 1s, such as 112
+three 1s, such as 111
+
+9
+This Verifier verifies the number of 3s in the code
+
+zero 3s, such as 222
+one 3, such as 135
+two 3s, such as 331
+three 3s, such as 333
+
+10
+This Verifier verifies the number of 4s in the code
+
+zero 4s, such as 123
+one 4, such as 435
+two 4s, such as 434
+three 4s, such as 444
+
+11
+This Verifier verifies the BLUE number compared to the YELLOW number
+
+BLUE is less than YELLOW
+BLUE is equal to YELLOW
+BLUE is greater than YELLOW
+
+12
+This Verifier verifies the BLUE number compared to the PURPLE number
+
+BLUE is less than PURPLE
+BLUE is equal to PURPLE
+BLUE is greater than PURPLE
+
+13
+This Verifier verifies the YELLOW number compared to the PURPLE number
+
+YELLOW is less than PURPLE
+YELLOW is equal to PURPLE
+YELLOW is greater than PURPLE
+
+14
+This Verifier verifies which colour's number is smaller than either of the others
+
+BLUE is smaller than PURPLE and YELLOW
+YELLOW is smaller than BLUE and PURPLE
+PURPLE is smaller than YELLOW and BLUE
+
+15
+This Verifier verifies which colour's number is larger than either of the others
+
+BLUE is larger than PURPLE and YELLOW
+YELLOW is larger than BLUE and PURPLE
+PURPLE is larger than YELLOW and BLUE
+
+16
+This Verifier verifies the number of even numbers compared to the number of odd numbers
+
+there are more even numbers, such as 245
+there are more odd numbers, such as 332
+
+17
+This Verifier verifies how many even numbers there are in the code
+
+zero even numbers, such as 135
+one even number, such as 323
+two even numbers, such as 432
+three even numbers, such as 242
+
+18
+This Verifier verifies if the sum of all the numbers is even or odd
+
+the sum of the numbers is even
+the sum of the numbers is odd
+
+19
+This Verifier verifies the sum of BLUE and YELLOW compared to 6
+
+the sum of BLUE and YELLOW is less than 6
+the sum of BLUE and YELLOW is equal to 6
+the sum of BLUE and YELLOW is greater than 6
+
+20
+This Verifier verifies if a number repeats itself in the code
+
+a triple number, such as 222
+a double number, such as 112
+no repetition, such as 125
+
+21
+This Verifier verifies if there is a number present exactly twice
+
+no rairs, such 134 or 222
+a pair, such as 131
+
+22
+This Verifier verifies if the 3 numbers in the code are in ascending order, decending order, or no order
+
+ascending order, such as 135
+descending order, such as 421
+no order, such as 231
+
+23
+This Verifier verifies the sum of all numbers compared to 6
+
+the sum of the numbers is less than 6
+the sum of the numbers is equal to 6
+the sum of the numbers is greater than 6
+
+24
+This Verifier verifies if there is a sequence of ascending numbers
+
+3 numbers in ascending order, such as 234
+2 numbers in ascending order, such as 233
+no numbers in ascending order, such as 135
+
+25
+This Verifier verifies if there is a sequence of ascending or descending numbers
+
+no sequence of numbers in ascending or descending order, such as 135 or 531
+2 numbers in ascending or descending order, such as 235 or 532
+3 numbers in ascending or descending order, such as 234 or 432
+
+26
+This Verifier verifies that a specific colour is less than 3
+
+BLUE is less than 3
+YELLOW is less than 3
+PURPLE is less than 3
+
+27
+This Verifier verifies that a specific colour is less than 4
+
+BLUE is less than 4
+YELLOW is less than 4
+PURPLE is less than 4
+
+28
+This Verifier verifies that a specific colour is equal to 1
+
+BLUE is equal to 1
+YELLOW is equal to 1
+PURPLE is equal to 1
+
+29
+This Verifier verifies that a specific colour is equal to 3
+
+BLUE is equal to 3
+YELLOW is equal to 3
+PURPLE is equal to 3
+
+30
+This Verifier verifies that a specific colour is equal to 4
+
+BLUE is equal to 4
+YELLOW is equal to 4
+PURPLE is equal to 4
+
+31
+This Verifier verifies that a specific colour is greater than 1
+
+BLUE is greater than 1
+YELLOW is greater than 1
+PURPLE is greater than 1
+
+32
+This Verifier verifies that a specific colour is greater than 3
+
+BLUE is greater than 3
+YELLOW is greater than 3
+PURPLE is greater than 3
+
+33
+This Verifier verifies that a specific colour is even or odd
+
+BLUE is even
+BLUE is odd
+YELLOW is even
+YELLOW is odd
+PURPLE is even
+PURPLE is odd
+
+34
+This Verifier verifies which colour has the smallest number (or is tied for the smallest number)
+
+BLUE is the smallest or is equal to PURPLE and YELLOW
+YELLOW is the smallest or is equal to BLUE and PURPLE
+PURPLE is the smallest or is equal to YELLOW and BLUE
+
+35
+This Verifier verifies which colour has the largest number (or is tied for the largest number)
+
+BLUE is the largest or is equal to PURPLE and YELLOW
+YELLOW is the largest or is equal to BLUE and PURPLE
+PURPLE is the largest or is equal to YELLOW and BLUE
+
+36
+This Verifier verifies the sum of all the numbers is a multiple of 3 or 4 or 5
+
+the sum of all the numbers is a multiple of 3
+the sum of all the numbers is a multiple of 4
+the sum of all the numbers is a multiple of 5
+
+37
+This Verifier verifies the sum of 2 specific colours is equal to 4
+
+the sum of BLUE and YELLOW is equal to 4
+the sum of BLUE and PURPLE is equal to 4
+the sum of YELLOW and PURPLE is equal to 4
+
+38
+This Verifier verifies the sum of 2 specific colours is equal to 6
+
+the sum of BLUE and YELLOW is equal to 6
+the sum of BLUE and PURPLE is equal to 6
+the sum of YELLOW and PURPLE is equal to 6
+
+39
+This Verifier verifies the number of one specific colour compared to 1
+
+BLUE is equal to 1
+BLUE is greater than 1
+YELLOW is equal to 1
+YELLOW is greater than 1
+PURPLE is equal to 1
+PURPLE is greater than 1
+
+40
+This Verifier verifies the number of one specific colour compared to 3
+
+BLUE is less than 3
+BLUE is equal to 3
+BLUE is greater than 3
+YELLOW is less than 3
+YELLOW is equal to 3
+YELLOW is greater than 3
+PURPLE is less than 3
+PURPLE is equal to 3
+PURPLE is greater than 3
+
+41
+This Verifier verifies the number of one specific colour compared to 4
+
+BLUE is less than 4
+BLUE is equal to 4
+BLUE is greater than 4
+YELLOW is less than 4
+YELLOW is equal to 4
+YELLOW is greater than 4
+PURPLE is less than 4
+PURPLE is equal to 4
+PURPLE is greater than 4
+
+42
+This Verifier verifies which colour is the smallest or the largest
+
+BLUE is the smallest
+BLUE is the largest
+YELLOW is the smallest
+YELLOW is the largest
+PURPLE is the smallest
+PURPLE is the largest
+
+43
+This Verifier verifies the BLUE number compared to the number of another specific colour
+
+BLUE is less than YELLOW
+BLUE is less than PURPLE
+BLUE is equal to YELLOW
+BLUE is equal to PURPLE
+BLUE is greater than YELLOW
+BLUE is greater than PURPLE
+
+44
+This Verifier verifies the YELLOW number compared to the number of another specific colour
+
+YELLOW is less than BLUE
+YELLOW is less than PURPLE
+YELLOW is equal to BLUE
+YELLOW is equal to PURPLE
+YELLOW is greater than BLUE
+YELLOW is greater than PURPLE
+
+45
+This Verifier verifies how many 1s OR how many 3s there are in the code
+
+zero 1s, such as 232
+one 1, such as 331
+two 1s, such as 151
+zero 3s, such as 514
+one 3, such as 351
+two 3s, such as 533
+
+46
+This Verifier verifies how many 3s OR how many 4s there are in the code
+
+zero 3s, such as 252
+one 3, such as 113
+two 3s, such as 353
+zero 4s, such as 512
+one 4, such as 451
+two 4s, such as 544
+
+47
+This Verifier verifies how many 1s OR how many 4s there are in the code
+
+zero 1s, such as 232
+one 1, such as 331
+two 1s, such as 151
+zero 4s, such as 512
+one 4, such as 451
+two 4s, such as 544
+
+48
+This Verifier verifies one specific colour compared to another specific colour
+
+BLUE is less than YELLOW
+BLUE is equal to YELLOW
+BLUE is greater than YELLOW
+BLUE is less than PURPLE
+BLUE is equal to PURPLE
+BLUE is greater than PURPLE
+YELLOW is less than PURPLE
+YELLOW is equal to PURPLE
+YELLOW is greater than PURPLE

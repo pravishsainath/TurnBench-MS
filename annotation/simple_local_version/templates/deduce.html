@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Deduce Answer - {{ game_id }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="flex flex-col h-screen bg-gray-100">
+
+    <!-- Top Section (Identical) -->
+    <div class="flex h-[10vh] border-b bg-white shadow-sm">
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-blue">{{ game_id }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-gray">Mode: {{ mode }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-gray">Difficulty: {{ difficulty }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 text-center">
+            <span class="badge-gray">Time: {{ elapsed_time }}</span>
+        </div>
+    </div>
+
+    <!-- Bottom Section -->
+    <div class="flex flex-grow h-[90vh]">
+        <!-- Left Panel (Identical) -->
+        <div class="w-3/10 p-4 border-r bg-white flex flex-col">
+            <h2 class="text-xl font-semibold mb-3 border-b pb-2 flex-shrink-0">Verifier Details</h2>
+            <div class="flex-grow overflow-auto pr-2">
+                <div id="verifier-details-content" class="text-sm prose prose-sm max-w-none whitespace-pre-wrap">{{ verifier_description | safe }}</div>
+            </div>
+        </div>
+
+        <!-- Right Panel (Submit Form wraps most of it) -->
+        <form action="/game/{{ game_id }}/submit-deduction" method="post" class="w-7/10 p-4 flex flex-col bg-gray-50">
+            <input type="hidden" name="round_number" value="{{ round_number }}"> 
+
+            <!-- Right Top Row (Identical) -->
+            <div class="flex items-center border-b pb-2 mb-3 flex-grow-[1] flex-basis-0">
+                <div class="w-2/10 text-lg font-medium">Round: {{ round_number }}</div>
+                <div class="w-8/10 text-xl font-semibold text-right">{{ step_title }}</div>
+            </div>
+
+            <!-- Step Explanation (Identical) -->
+            <div class="bg-blue-50 p-3 rounded border border-blue-200 mb-3 flex-grow-[3] flex-basis-0 overflow-auto max-h-[25vh]">
+                <p class="text-sm text-blue-800 whitespace-pre-wrap">{{ round_description }}</p>
+            </div>
+
+            <!-- Thinking Process Input (Identical structure) -->
+            <div class="border p-3 rounded bg-white shadow-inner mb-3 flex flex-col flex-grow-[4] flex-basis-0">
+                 <label for="thinking-process" class="font-medium text-gray-700 mb-1 flex-shrink-0">Thinking Process record:</label>
+                 <textarea id="thinking-process" name="thinking_process" class="textarea w-full flex-grow resize-none" placeholder="Record final deduction process...">{{ existing_thinking_process }}</textarea>
+             </div>
+
+            <!-- Submit Row (Replaces Verification Row) -->
+            <div class="flex items-center gap-2 mb-3 flex-grow-[1] flex-basis-0">
+                <span class="text-sm font-medium text-gray-600 whitespace-nowrap flex-shrink-0 w-1/4">Submit Final Code:</span>
+                <input type="text" id="submitted-code" name="submitted_code" class="input w-3/4" placeholder="Enter final code guess (or leave blank to start next round)">
+            </div>
+
+             <!-- Bottom Button Row (Only Next Step) -->
+            <div class="flex justify-end items-center border-t pt-3 mt-auto flex-grow-[1] flex-basis-0">
+                 <button type="submit" class="button" id="next-step-btn">Next Step</button>
+            </div>
+        </form>
+    </div>
+
+</body>
+</html> 

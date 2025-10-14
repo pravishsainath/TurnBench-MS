@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Compose Proposal - {{ game_id }}</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="flex flex-col h-screen bg-gray-100">
+  <!-- Top Section (1/10 height) -->
+  <div class="flex h-[10vh] border-b bg-white shadow-sm">
+    <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+      <span class="badge-blue">{{ game_id }}</span>
+    </div>
+    <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+      <span class="badge-gray">Mode: {{ mode }}</span>
+    </div>
+    <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+      <span class="badge-gray">Difficulty: {{ difficulty }}</span>
+    </div>
+    <div class="w-1/4 flex items-center justify-center p-2 text-center">
+      <span class="badge-gray">Time: {{ elapsed_time }}</span>
+    </div>
+  </div>
+
+  <!-- Bottom Section (9/10 height) -->
+  <form action="/game/{{ game_id }}/submit-proposal" method="post" class="flex flex-grow h-[90vh]">
+    <input type="hidden" name="round_number" value="{{ round_number }}">
+
+    <!-- Left Panel (3/10 width) -->
+    <div class="w-3/10 p-4 border-r bg-white flex flex-col">
+      <h2 class="text-xl font-semibold mb-3 border-b pb-2 flex-shrink-0">Verifier Details</h2>
+      <div class="flex-grow overflow-auto pr-2">
+        <div id="verifier-details-content" class="text-sm prose prose-sm max-w-none whitespace-pre-wrap">{{ verifier_description | safe }}</div>
+      </div>
+    </div>
+
+    <!-- Right Panel (7/10 width) -->
+    <div class="w-7/10 p-4 flex flex-col bg-gray-50">
+      <!-- Right Top Row (1/10 height of right panel) -->
+      <div class="flex items-center border-b pb-2 mb-3 flex-grow-[1]">
+        <div class="w-2/10 text-lg font-medium">Round: {{ round_number }}</div>
+        <div class="w-8/10 text-xl font-semibold text-right">{{ step_title }}</div>
+      </div>
+
+      <!-- Step Explanation (3/10 height of right panel) -->
+      <div class="bg-blue-50 p-3 rounded border border-blue-200 mb-3 flex-grow-[3] overflow-auto">
+        <p class="text-sm text-blue-800 whitespace-pre-wrap">{{ round_description }}</p>
+      </div>
+
+      <!-- Thinking Process Input (4/10 height of right panel) -->
+      <div class="border p-3 rounded bg-white shadow-inner mb-3 flex flex-col flex-grow-[4]">
+        <label for="thinking-process" class="font-medium text-gray-700 mb-1 flex-shrink-0">Thinking Process record:</label>
+        <textarea id="thinking-process" name="thinking_process" class="textarea w-full flex-grow resize-none" placeholder="Record your thinking process here..."></textarea>
+      </div>
+
+      <!-- Guess Code Input (1/10 height of right panel) -->
+      <div class="flex items-center gap-2 mb-3 flex-grow-[1]">
+        <span class="text-sm font-medium text-gray-600 whitespace-nowrap flex-shrink-0">Guess code:</span>
+        <input type="text" id="guess-code" name="guess_code" class="input flex-grow" placeholder="Enter your code guess...">
+      </div>
+
+      <!-- Next Step Button (1/10 height of right panel) -->
+      <div class="flex justify-end items-center border-t pt-3 mt-auto flex-grow-[1]">
+        <button type="submit" class="button" id="next-step-btn">Next Step</button>
+      </div>
+    </div>
+  </form>
+</body>
+</html>

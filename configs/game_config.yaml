@@ -1,0 +1,60 @@
+running_mode: "experiment" # single_game, experiment, error_list
+
+single_game_config:
+  log_level: "DEBUG"
+  model_name: "llama-3.1-8b-instruct"
+  model_provider: "openrouter"
+  setup_id: "C4CM6M"
+  game_result_save_folder: "data/results"  # folder_name or full path
+  max_rounds: -1                           # -1 means no limit
+  game_setups_path: "data/configs/game_setups_270.json"
+  verifier_config_path: "data/configs/verifiers_v1.json"
+  with_reasoning: true
+  with_hint: true
+  mode: "classic" # classic, nightmare
+
+error_list_config:
+  num_threads: 10
+  log_level: "INFO" # INFO, DEBUG
+  error_list_path: "data/experiments/20250509_143635/error_list.json"
+  game_result_save_folder: "data/experiments"
+  game_setups_path: "data/configs/game_setups_270.json"
+  verifier_config_path: "data/configs/verifiers_v1.json"
+
+experiment_config:
+  num_threads: 1 # number of threads to run the experiments
+  log_level: "INFO" # INFO, DEBUG
+  game_result_save_folder: "data/experiments" # change it to start with different save folder
+  game_setups_path: "data/configs/game_setups_45_model_classic.json" # change it to start with different setups
+  verifier_config_path: "data/configs/verifiers_v1.json" # Don't change
+  break_point_folder_path: "data/experiments/sample_folder" # change it to start with different break point folder
+
+  max_rounds: 20
+  with_reasoning: 
+    - true # false means Only Answer, no reasoning
+  with_hint:
+    - true # only true at this moment
+  mode:
+    - "classic" # classic, nightmare
+    # - "nightmare"
+  model_names:
+    - "gemini-2.5-flash"
+    # - "You can add more models here, tt will be automatically organized into a task pool"
+  model_providers:
+    - "openrouter"
+    # - "You need to add the provider name here, corresponding to the model_names"
+
+# for prompt turning, the key is the prompt category, the value is the prompt name
+# you don't need to change this in the most cases
+game_prompt_names:
+  system_prompt: "system_prompt"
+  proposal_prompt: "proposal_prompt"
+  not_valid_proposal_format_prompt: "not_valid_proposal_format_prompt"
+  first_question_prompt: "first_question_prompt"
+  following_question_prompt: "following_question_prompt"
+  after_last_question_prompt: "after_last_question_prompt"
+  not_valid_verifier_choice_prompt: "not_valid_verifier_choice_prompt"
+  not_valid_question_format_prompt: "not_valid_question_format_prompt"
+  deduce_prompt: "deduce_prompt"
+  not_valid_deduce_format_prompt: "not_valid_deduce_format_prompt"
+  deduce_result_prompt: "deduce_result_prompt"

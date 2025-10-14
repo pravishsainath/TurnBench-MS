@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Question Verifiers - {{ game_id }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="flex flex-col h-screen bg-gray-100">
+
+    <div class="flex h-[10vh] border-b bg-white shadow-sm">
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-blue">{{ game_id }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-gray">Mode: {{ mode }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 border-r text-center">
+            <span class="badge-gray">Difficulty: {{ difficulty }}</span>
+        </div>
+        <div class="w-1/4 flex items-center justify-center p-2 text-center">
+            <span class="badge-gray">Time: {{ elapsed_time }}</span>
+        </div>
+    </div>
+
+    <div class="flex flex-grow h-[90vh]">
+        <div class="w-3/10 p-4 border-r bg-white flex flex-col">
+            <h2 class="text-xl font-semibold mb-3 border-b pb-2 flex-shrink-0">Verifier Details</h2>
+            <div class="flex-grow overflow-auto pr-2">
+                <div id="verifier-details-content" class="text-sm prose prose-sm max-w-none whitespace-pre-wrap">{{ verifier_description | safe }}</div>
+            </div>
+        </div>
+
+        <div class="w-7/10 p-4 flex flex-col bg-gray-50">
+
+            <div class="flex items-center border-b pb-2 mb-3 flex-grow-[1] flex-basis-0">
+                <div class="w-2/10 text-lg font-medium">Round: {{ round_number }}</div>
+                <div class="w-8/10 text-xl font-semibold text-right">{{ step_title }}</div>
+            </div>
+
+            <div class="bg-blue-50 p-3 rounded border border-blue-200 mb-3 flex-grow-[3] flex-basis-0 overflow-auto max-h-[25vh]">
+                <p class="text-sm text-blue-800 whitespace-pre-wrap">{{ round_description }}</p>
+            </div>
+
+            <form id="verify-form" action="/game/{{ game_id }}/submit-question" method="post" class="flex flex-col flex-grow-[4] flex-basis-0 mb-3">
+                 <div class="border p-3 rounded bg-white shadow-inner flex flex-col flex-grow">
+                    <label for="thinking-process" class="font-medium text-gray-700 mb-1 flex-shrink-0">Thinking Process record:</label>
+                    <textarea id="thinking-process" name="thinking_process" class="textarea w-full flex-grow resize-none" placeholder="Record thinking process for this question...">{{ existing_thinking_process }}</textarea>
+                </div>
+                 <input type="hidden" name="action" value="verify"> 
+            </form>
+
+            <div class="flex items-center gap-2 mb-3 flex-grow-[1] flex-basis-0">
+                <span class="text-sm font-medium text-gray-600 whitespace-nowrap flex-shrink-0 w-1/4">{{ verifier_label }}:</span>
+                
+                <input form="verify-form" type="text" pattern="[0-9]" maxlength="1" id="verifier-number" name="verifier_number" class="input w-1/4" placeholder="e.g.: 0" {% if not can_ask_more %}disabled{% endif %}>
+                
+                <button form="verify-form" type="submit" class="button w-1/4" {% if not can_ask_more %}disabled{% endif %}>Click to Verify</button>
+                
+                <div class="input w-1/4 text-center font-semibold 
+                    {% if last_verifier_result == 'TRUE' %}text-green-600 border-green-400 bg-green-50
+                    {% elif last_verifier_result == 'FAIL' %}text-red-600 border-red-400 bg-red-50
+                    {% else %}border-gray-300 bg-gray-100{% endif %}"
+                >
+                    {{ last_verifier_result if last_verifier_result else '--' }}
+                </div>
+            </div>
+
+            <div class="flex justify-between items-center border-t pt-3 mt-auto flex-grow-[1] flex-basis-0">
+                <form action="/game/{{ game_id }}/next-question" method="post">
+                    <input type="hidden" name="action" value="next_question">
+                    <button type="submit" class="button" {% if not can_ask_more %}disabled{% endif %}>Next Question</button>
+                    
+                </form>
+                
+                <form action="/game/{{ game_id }}/deduce" method="get">
+                    <button type="submit" class="button" id="next-step-btn">Next Step</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html> 

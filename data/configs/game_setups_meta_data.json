@@ -1,0 +1,4958 @@
+{
+    "C4CM6M": {
+        "verifiers": [
+            16,
+            23,
+            43,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "211",
+        "difficulty": "hard"
+    },
+    "C466G4": {
+        "verifiers": [
+            1,
+            35,
+            40,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "221",
+        "difficulty": "hard"
+    },
+    "C46JLH": {
+        "verifiers": [
+            9,
+            25,
+            32,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "531",
+        "difficulty": "hard"
+    },
+    "C4AV2S": {
+        "verifiers": [
+            12,
+            24,
+            33,
+            38
+        ],
+        "active_criteria": [],
+        "answer": "451",
+        "difficulty": "hard"
+    },
+    "C4C1JB": {
+        "verifiers": [
+            16,
+            33,
+            36,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "hard"
+    },
+    "C4DMZH": {
+        "verifiers": [
+            20,
+            25,
+            37,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "hard"
+    },
+    "C47LQL": {
+        "verifiers": [
+            17,
+            32,
+            35,
+            38
+        ],
+        "active_criteria": [],
+        "answer": "442",
+        "difficulty": "hard"
+    },
+    "C42ER": {
+        "verifiers": [
+            22,
+            28,
+            33,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "hard"
+    },
+    "C4A75S": {
+        "verifiers": [
+            11,
+            18,
+            36,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "442",
+        "difficulty": "hard"
+    },
+    "C4AME9": {
+        "verifiers": [
+            6,
+            10,
+            33,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "hard"
+    },
+    "C44S17": {
+        "verifiers": [
+            17,
+            21,
+            29,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "513",
+        "difficulty": "hard"
+    },
+    "C4DG3Y": {
+        "verifiers": [
+            19,
+            25,
+            36,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "hard"
+    },
+    "C49RKS": {
+        "verifiers": [
+            13,
+            25,
+            41,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "hard"
+    },
+    "C48TD8": {
+        "verifiers": [
+            5,
+            27,
+            37,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "331",
+        "difficulty": "hard"
+    },
+    "C4BEHX": {
+        "verifiers": [
+            20,
+            23,
+            33,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "312",
+        "difficulty": "hard"
+    },
+    "C4QVR": {
+        "verifiers": [
+            2,
+            23,
+            34,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "322",
+        "difficulty": "hard"
+    },
+    "C42TK8": {
+        "verifiers": [
+            12,
+            16,
+            29,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "232",
+        "difficulty": "hard"
+    },
+    "C4A8T7": {
+        "verifiers": [
+            19,
+            21,
+            26,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "hard"
+    },
+    "C4BTUT": {
+        "verifiers": [
+            18,
+            33,
+            36,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "311",
+        "difficulty": "hard"
+    },
+    "C443VE": {
+        "verifiers": [
+            4,
+            5,
+            32,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "453",
+        "difficulty": "hard"
+    },
+    "C42DZ7": {
+        "verifiers": [
+            8,
+            23,
+            28,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "312",
+        "difficulty": "hard"
+    },
+    "C440B1": {
+        "verifiers": [
+            4,
+            14,
+            36,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "hard"
+    },
+    "C4DN56": {
+        "verifiers": [
+            20,
+            25,
+            34,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "hard"
+    },
+    "C473DZ": {
+        "verifiers": [
+            12,
+            19,
+            31,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "hard"
+    },
+    "C465RT": {
+        "verifiers": [
+            2,
+            24,
+            31,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "233",
+        "difficulty": "hard"
+    },
+    "C492ZH": {
+        "verifiers": [
+            3,
+            18,
+            41,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "123",
+        "difficulty": "hard"
+    },
+    "C462FA": {
+        "verifiers": [
+            14,
+            38,
+            41,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "425",
+        "difficulty": "hard"
+    },
+    "C4DIMQ": {
+        "verifiers": [
+            15,
+            17,
+            24,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "114",
+        "difficulty": "hard"
+    },
+    "C4C1HM": {
+        "verifiers": [
+            7,
+            36,
+            37,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "315",
+        "difficulty": "hard"
+    },
+    "C41M3K": {
+        "verifiers": [
+            8,
+            25,
+            30,
+            39
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "hard"
+    },
+    "B49N1Z": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "111",
+        "difficulty": "medium"
+    },
+    "B4CBEH": {
+        "verifiers": [
+            8,
+            15,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "medium"
+    },
+    "B4B6D8": {
+        "verifiers": [
+            6,
+            12,
+            14,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "medium"
+    },
+    "B4CUWL": {
+        "verifiers": [
+            9,
+            14,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "344",
+        "difficulty": "medium"
+    },
+    "B41F7Z": {
+        "verifiers": [
+            2,
+            12,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "324",
+        "difficulty": "medium"
+    },
+    "B49E2Z": {
+        "verifiers": [
+            3,
+            13,
+            15,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "421",
+        "difficulty": "medium"
+    },
+    "B46D5R": {
+        "verifiers": [
+            1,
+            10,
+            16,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "medium"
+    },
+    "B449GS": {
+        "verifiers": [
+            4,
+            5,
+            10,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "252",
+        "difficulty": "medium"
+    },
+    "B48EBV": {
+        "verifiers": [
+            2,
+            6,
+            11,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "111",
+        "difficulty": "medium"
+    },
+    "B4AWTV": {
+        "verifiers": [
+            5,
+            15,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "medium"
+    },
+    "B43V7P": {
+        "verifiers": [
+            4,
+            7,
+            9,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "541",
+        "difficulty": "medium"
+    },
+    "B499L": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "medium"
+    },
+    "B47LAE": {
+        "verifiers": [
+            3,
+            13,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "545",
+        "difficulty": "medium"
+    },
+    "B4BSCI": {
+        "verifiers": [
+            6,
+            9,
+            11,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "233",
+        "difficulty": "medium"
+    },
+    "B47L99": {
+        "verifiers": [
+            3,
+            11,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "545",
+        "difficulty": "medium"
+    },
+    "B4D130": {
+        "verifiers": [
+            11,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "153",
+        "difficulty": "medium"
+    },
+    "B48E2P": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "114",
+        "difficulty": "medium"
+    },
+    "B4B9H6": {
+        "verifiers": [
+            7,
+            9,
+            14,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "524",
+        "difficulty": "medium"
+    },
+    "B419CQ": {
+        "verifiers": [
+            2,
+            10,
+            12,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "medium"
+    },
+    "B4D0H7": {
+        "verifiers": [
+            10,
+            15,
+            18,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "112",
+        "difficulty": "medium"
+    },
+    "B49PAH": {
+        "verifiers": [
+            4,
+            8,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "333",
+        "difficulty": "medium"
+    },
+    "B4BYTK": {
+        "verifiers": [
+            7,
+            9,
+            15,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "medium"
+    },
+    "B46X88": {
+        "verifiers": [
+            2,
+            12,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "445",
+        "difficulty": "medium"
+    },
+    "B42VD9": {
+        "verifiers": [
+            3,
+            5,
+            13,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "medium"
+    },
+    "B49HKQ": {
+        "verifiers": [
+            3,
+            14,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "421",
+        "difficulty": "medium"
+    },
+    "B47FQ4": {
+        "verifiers": [
+            3,
+            8,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "medium"
+    },
+    "B4B02Q": {
+        "verifiers": [
+            6,
+            9,
+            11,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "322",
+        "difficulty": "medium"
+    },
+    "B4CHTL": {
+        "verifiers": [
+            8,
+            12,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "331",
+        "difficulty": "medium"
+    },
+    "B493S3": {
+        "verifiers": [
+            3,
+            5,
+            14,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "421",
+        "difficulty": "medium"
+    },
+    "B48NLN": {
+        "verifiers": [
+            2,
+            13,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "244",
+        "difficulty": "medium"
+    },
+    "C4DFU7": {
+        "verifiers": [
+            25,
+            36,
+            42,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "hard"
+    },
+    "C429FD": {
+        "verifiers": [
+            21,
+            26,
+            28,
+            33
+        ],
+        "active_criteria": [],
+        "answer": "214",
+        "difficulty": "hard"
+    },
+    "C44SOC": {
+        "verifiers": [
+            24,
+            29,
+            37,
+            39
+        ],
+        "active_criteria": [],
+        "answer": "133",
+        "difficulty": "hard"
+    },
+    "C47FC0": {
+        "verifiers": [
+            3,
+            12,
+            33,
+            38
+        ],
+        "active_criteria": [],
+        "answer": "151",
+        "difficulty": "hard"
+    },
+    "C46KS8": {
+        "verifiers": [
+            5,
+            32,
+            36,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "442",
+        "difficulty": "hard"
+    },
+    "C4B1KJ": {
+        "verifiers": [
+            22,
+            23,
+            33,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "222",
+        "difficulty": "hard"
+    },
+    "C422LH": {
+        "verifiers": [
+            18,
+            26,
+            41,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "513",
+        "difficulty": "hard"
+    },
+    "C4DCB4": {
+        "verifiers": [
+            18,
+            37,
+            42,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "hard"
+    },
+    "C43XOY": {
+        "verifiers": [
+            8,
+            16,
+            35,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "541",
+        "difficulty": "hard"
+    },
+    "C4BT1A": {
+        "verifiers": [
+            6,
+            19,
+            25,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "433",
+        "difficulty": "hard"
+    },
+    "C488WF": {
+        "verifiers": [
+            2,
+            17,
+            26,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "hard"
+    },
+    "C47TN8": {
+        "verifiers": [
+            19,
+            21,
+            31,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "hard"
+    },
+    "C42JBY": {
+        "verifiers": [
+            22,
+            24,
+            30,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "hard"
+    },
+    "C46WFM": {
+        "verifiers": [
+            17,
+            32,
+            34,
+            38
+        ],
+        "active_criteria": [],
+        "answer": "524",
+        "difficulty": "hard"
+    },
+    "C4AE8Z": {
+        "verifiers": [
+            7,
+            8,
+            27,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "113",
+        "difficulty": "hard"
+    },
+    "C41B5Q": {
+        "verifiers": [
+            18,
+            25,
+            29,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "352",
+        "difficulty": "hard"
+    },
+    "C454ZD": {
+        "verifiers": [
+            11,
+            29,
+            35,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "233",
+        "difficulty": "hard"
+    },
+    "C46338": {
+        "verifiers": [
+            9,
+            34,
+            36,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "hard"
+    },
+    "C49NEG": {
+        "verifiers": [
+            4,
+            13,
+            25,
+            33
+        ],
+        "active_criteria": [],
+        "answer": "123",
+        "difficulty": "hard"
+    },
+    "C4D5OY": {
+        "verifiers": [
+            10,
+            38,
+            42,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "511",
+        "difficulty": "hard"
+    },
+    "C42G8Y": {
+        "verifiers": [
+            12,
+            21,
+            23,
+            39
+        ],
+        "active_criteria": [],
+        "answer": "115",
+        "difficulty": "hard"
+    },
+    "C466EB": {
+        "verifiers": [
+            1,
+            24,
+            41,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "244",
+        "difficulty": "hard"
+    },
+    "C48LP": {
+        "verifiers": [
+            15,
+            27,
+            28,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "123",
+        "difficulty": "hard"
+    },
+    "C4HBO": {
+        "verifiers": [
+            18,
+            29,
+            32,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "355",
+        "difficulty": "hard"
+    },
+    "C43RZ1": {
+        "verifiers": [
+            4,
+            24,
+            33,
+            34
+        ],
+        "active_criteria": [],
+        "answer": "445",
+        "difficulty": "hard"
+    },
+    "C4DG03": {
+        "verifiers": [
+            14,
+            19,
+            36,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "hard"
+    },
+    "C4A35Y": {
+        "verifiers": [
+            7,
+            26,
+            34,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "hard"
+    },
+    "C46Y00": {
+        "verifiers": [
+            2,
+            20,
+            31,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "221",
+        "difficulty": "hard"
+    },
+    "C4D1AW": {
+        "verifiers": [
+            17,
+            22,
+            36,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "321",
+        "difficulty": "hard"
+    },
+    "C4DJPZ": {
+        "verifiers": [
+            17,
+            19,
+            38,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "155",
+        "difficulty": "hard"
+    },
+    "A520AXX": {
+        "verifiers": [
+            3,
+            5,
+            8,
+            13,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "422",
+        "difficulty": "easy"
+    },
+    "A5V5NM": {
+        "verifiers": [
+            4,
+            7,
+            9,
+            11,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "541",
+        "difficulty": "easy"
+    },
+    "A524NLG": {
+        "verifiers": [
+            4,
+            6,
+            10,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "232",
+        "difficulty": "easy"
+    },
+    "A5RWPJ": {
+        "verifiers": [
+            3,
+            5,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "easy"
+    },
+    "A51KXAA": {
+        "verifiers": [
+            3,
+            5,
+            10,
+            14,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "142",
+        "difficulty": "easy"
+    },
+    "A51CXXW": {
+        "verifiers": [
+            2,
+            6,
+            9,
+            11,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "423",
+        "difficulty": "easy"
+    },
+    "A51UMXT": {
+        "verifiers": [
+            2,
+            7,
+            9,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "132",
+        "difficulty": "easy"
+    },
+    "A52F9DY": {
+        "verifiers": [
+            7,
+            8,
+            12,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A5SCBO": {
+        "verifiers": [
+            3,
+            8,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "easy"
+    },
+    "A51E71T": {
+        "verifiers": [
+            2,
+            9,
+            12,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "414",
+        "difficulty": "easy"
+    },
+    "A51KOOF": {
+        "verifiers": [
+            3,
+            7,
+            9,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A5223JI": {
+        "verifiers": [
+            3,
+            9,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "225",
+        "difficulty": "easy"
+    },
+    "A5WTL8": {
+        "verifiers": [
+            4,
+            7,
+            9,
+            11,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "551",
+        "difficulty": "easy"
+    },
+    "A523EYZ": {
+        "verifiers": [
+            4,
+            5,
+            11,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "234",
+        "difficulty": "easy"
+    },
+    "A5K05Y": {
+        "verifiers": [
+            2,
+            7,
+            10,
+            12,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "321",
+        "difficulty": "easy"
+    },
+    "A5GMV3": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "easy"
+    },
+    "A51KW59": {
+        "verifiers": [
+            3,
+            5,
+            9,
+            12,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "344",
+        "difficulty": "easy"
+    },
+    "A5K9PT": {
+        "verifiers": [
+            2,
+            8,
+            11,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "352",
+        "difficulty": "easy"
+    },
+    "A51KOAS": {
+        "verifiers": [
+            3,
+            7,
+            9,
+            12,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "easy"
+    },
+    "A525F9E": {
+        "verifiers": [
+            4,
+            8,
+            13,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "432",
+        "difficulty": "easy"
+    },
+    "A5V305": {
+        "verifiers": [
+            4,
+            7,
+            8,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "easy"
+    },
+    "A5GM4K": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "easy"
+    },
+    "A51LOIN": {
+        "verifiers": [
+            3,
+            9,
+            11,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "easy"
+    },
+    "A5192TA": {
+        "verifiers": [
+            1,
+            6,
+            11,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "easy"
+    },
+    "B4D3IF": {
+        "verifiers": [
+            10,
+            13,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "555",
+        "difficulty": "medium"
+    },
+    "B48KWC": {
+        "verifiers": [
+            2,
+            12,
+            14,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "214",
+        "difficulty": "medium"
+    },
+    "B4CS9P": {
+        "verifiers": [
+            9,
+            15,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "322",
+        "difficulty": "medium"
+    },
+    "B4695A": {
+        "verifiers": [
+            1,
+            6,
+            16,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "245",
+        "difficulty": "medium"
+    },
+    "B412HM": {
+        "verifiers": [
+            2,
+            7,
+            14,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "331",
+        "difficulty": "medium"
+    },
+    "B4CRD3": {
+        "verifiers": [
+            9,
+            15,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "311",
+        "difficulty": "medium"
+    },
+    "B49VJO": {
+        "verifiers": [
+            4,
+            12,
+            15,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "121",
+        "difficulty": "medium"
+    },
+    "B49ASA": {
+        "verifiers": [
+            3,
+            8,
+            11,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "medium"
+    },
+    "B44A9H": {
+        "verifiers": [
+            4,
+            7,
+            12,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "254",
+        "difficulty": "medium"
+    },
+    "B4D15K": {
+        "verifiers": [
+            11,
+            16,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "222",
+        "difficulty": "medium"
+    },
+    "B46MHN": {
+        "verifiers": [
+            2,
+            6,
+            15,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "425",
+        "difficulty": "medium"
+    },
+    "B4BT4L": {
+        "verifiers": [
+            6,
+            10,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "532",
+        "difficulty": "medium"
+    },
+    "B4DIA1": {
+        "verifiers": [
+            14,
+            16,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "254",
+        "difficulty": "medium"
+    },
+    "B43UQI": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "344",
+        "difficulty": "medium"
+    },
+    "B4C2HS": {
+        "verifiers": [
+            7,
+            14,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "515",
+        "difficulty": "medium"
+    },
+    "B4D0OE": {
+        "verifiers": [
+            10,
+            13,
+            15,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "211",
+        "difficulty": "medium"
+    },
+    "B47LGA": {
+        "verifiers": [
+            3,
+            11,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "544",
+        "difficulty": "medium"
+    },
+    "B48NKH": {
+        "verifiers": [
+            2,
+            12,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "medium"
+    },
+    "B49Q9Z": {
+        "verifiers": [
+            4,
+            8,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "333",
+        "difficulty": "medium"
+    },
+    "B4B344": {
+        "verifiers": [
+            6,
+            10,
+            13,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "445",
+        "difficulty": "medium"
+    },
+    "B43XMW": {
+        "verifiers": [
+            4,
+            8,
+            14,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "medium"
+    },
+    "B46FQE": {
+        "verifiers": [
+            1,
+            15,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "231",
+        "difficulty": "medium"
+    },
+    "B4D75P": {
+        "verifiers": [
+            10,
+            12,
+            16,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "422",
+        "difficulty": "medium"
+    },
+    "B49RX6": {
+        "verifiers": [
+            4,
+            9,
+            14,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "medium"
+    },
+    "B49GHG": {
+        "verifiers": [
+            3,
+            13,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "221",
+        "difficulty": "medium"
+    },
+    "B4DAGF": {
+        "verifiers": [
+            10,
+            12,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "224",
+        "difficulty": "medium"
+    },
+    "B4BSHV": {
+        "verifiers": [
+            6,
+            9,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "medium"
+    },
+    "B4E5I": {
+        "verifiers": [
+            1,
+            15,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "medium"
+    },
+    "B42UEU": {
+        "verifiers": [
+            3,
+            5,
+            14,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "medium"
+    },
+    "B41DBD": {
+        "verifiers": [
+            2,
+            14,
+            16,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "355",
+        "difficulty": "medium"
+    },
+    "A46MQL": {
+        "verifiers": [
+            2,
+            7,
+            9,
+            12
+        ],
+        "active_criteria": [],
+        "answer": "434",
+        "difficulty": "easy"
+    },
+    "A49R12": {
+        "verifiers": [
+            4,
+            8,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "121",
+        "difficulty": "easy"
+    },
+    "A48CVO": {
+        "verifiers": [
+            2,
+            5,
+            10,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "easy"
+    },
+    "A4B94": {
+        "verifiers": [
+            1,
+            8,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "easy"
+    },
+    "A49AGB": {
+        "verifiers": [
+            3,
+            8,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "523",
+        "difficulty": "easy"
+    },
+    "A43TZG": {
+        "verifiers": [
+            4,
+            7,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "easy"
+    },
+    "A47GF1": {
+        "verifiers": [
+            3,
+            8,
+            13,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "155",
+        "difficulty": "easy"
+    },
+    "A48DCA": {
+        "verifiers": [
+            2,
+            5,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "124",
+        "difficulty": "easy"
+    },
+    "A42VSC": {
+        "verifiers": [
+            3,
+            5,
+            14,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "easy"
+    },
+    "A4ZJP": {
+        "verifiers": [
+            2,
+            6,
+            9,
+            11
+        ],
+        "active_criteria": [],
+        "answer": "313",
+        "difficulty": "easy"
+    },
+    "A4B2CN": {
+        "verifiers": [
+            6,
+            10,
+            11,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "easy"
+    },
+    "A43006": {
+        "verifiers": [
+            3,
+            7,
+            11,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "331",
+        "difficulty": "easy"
+    },
+    "A4AS7T": {
+        "verifiers": [
+            5,
+            10,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "253",
+        "difficulty": "easy"
+    },
+    "A47IVG": {
+        "verifiers": [
+            3,
+            10,
+            11,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "542",
+        "difficulty": "easy"
+    },
+    "A49ACP": {
+        "verifiers": [
+            3,
+            8,
+            12,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "easy"
+    },
+    "A4AFE": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "154",
+        "difficulty": "easy"
+    },
+    "A43R9R": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "easy"
+    },
+    "A4ZR1": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            11
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A4AXW8": {
+        "verifiers": [
+            6,
+            8,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "easy"
+    },
+    "A48HK7": {
+        "verifiers": [
+            2,
+            8,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "easy"
+    },
+    "A4Z7G": {
+        "verifiers": [
+            2,
+            7,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "312",
+        "difficulty": "easy"
+    },
+    "A4976E": {
+        "verifiers": [
+            3,
+            6,
+            10,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "212",
+        "difficulty": "easy"
+    },
+    "A44A0Q": {
+        "verifiers": [
+            4,
+            7,
+            9,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A4303R": {
+        "verifiers": [
+            3,
+            7,
+            10,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "easy"
+    },
+    "A497MG": {
+        "verifiers": [
+            3,
+            6,
+            12,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "easy"
+    },
+    "A49O24": {
+        "verifiers": [
+            4,
+            7,
+            8,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "231",
+        "difficulty": "easy"
+    },
+    "A4CRGV": {
+        "verifiers": [
+            9,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "easy"
+    },
+    "A4W9M": {
+        "verifiers": [
+            2,
+            6,
+            12,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "easy"
+    },
+    "A46B6P": {
+        "verifiers": [
+            1,
+            9,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "245",
+        "difficulty": "easy"
+    },
+    "A43RKA": {
+        "verifiers": [
+            4,
+            5,
+            10,
+            11
+        ],
+        "active_criteria": [],
+        "answer": "244",
+        "difficulty": "easy"
+    },
+    "A41AA5": {
+        "verifiers": [
+            2,
+            10,
+            11,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "easy"
+    },
+    "A42ZS6": {
+        "verifiers": [
+            3,
+            7,
+            8,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "easy"
+    },
+    "A4A000": {
+        "verifiers": [
+            5,
+            8,
+            13,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "423",
+        "difficulty": "easy"
+    },
+    "A49BHW": {
+        "verifiers": [
+            3,
+            9,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "521",
+        "difficulty": "easy"
+    },
+    "A4426Z": {
+        "verifiers": [
+            4,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "245",
+        "difficulty": "easy"
+    },
+    "A4XOF": {
+        "verifiers": [
+            2,
+            6,
+            14,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "easy"
+    },
+    "A4BZYT": {
+        "verifiers": [
+            7,
+            9,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "easy"
+    },
+    "A48DRC": {
+        "verifiers": [
+            2,
+            5,
+            13,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "142",
+        "difficulty": "easy"
+    },
+    "A43SA1": {
+        "verifiers": [
+            4,
+            5,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "241",
+        "difficulty": "easy"
+    },
+    "A49837": {
+        "verifiers": [
+            3,
+            6,
+            12,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "214",
+        "difficulty": "easy"
+    },
+    "A44BY2": {
+        "verifiers": [
+            4,
+            9,
+            12,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "551",
+        "difficulty": "easy"
+    },
+    "A42XE8": {
+        "verifiers": [
+            3,
+            7,
+            12,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "434",
+        "difficulty": "easy"
+    },
+    "A49SGD": {
+        "verifiers": [
+            4,
+            9,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "easy"
+    },
+    "A48DBR": {
+        "verifiers": [
+            2,
+            5,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "124",
+        "difficulty": "easy"
+    },
+    "A4976P": {
+        "verifiers": [
+            3,
+            6,
+            10,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "212",
+        "difficulty": "easy"
+    },
+    "A43WE2": {
+        "verifiers": [
+            4,
+            8,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "easy"
+    },
+    "A4B368": {
+        "verifiers": [
+            6,
+            10,
+            11,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "544",
+        "difficulty": "easy"
+    },
+    "A46CYM": {
+        "verifiers": [
+            1,
+            10,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "easy"
+    },
+    "A4350D": {
+        "verifiers": [
+            3,
+            9,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "531",
+        "difficulty": "easy"
+    },
+    "A4COLN": {
+        "verifiers": [
+            7,
+            10,
+            12,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "221",
+        "difficulty": "easy"
+    },
+    "A47E0O": {
+        "verifiers": [
+            3,
+            6,
+            9,
+            11
+        ],
+        "active_criteria": [],
+        "answer": "553",
+        "difficulty": "easy"
+    },
+    "A46QM9": {
+        "verifiers": [
+            2,
+            8,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "easy"
+    },
+    "A411H4": {
+        "verifiers": [
+            2,
+            7,
+            10,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "341",
+        "difficulty": "easy"
+    },
+    "A49S2": {
+        "verifiers": [
+            1,
+            7,
+            9,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "132",
+        "difficulty": "easy"
+    },
+    "A42YZ3": {
+        "verifiers": [
+            3,
+            5,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "534",
+        "difficulty": "easy"
+    },
+    "A4AZNS": {
+        "verifiers": [
+            6,
+            9,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "142",
+        "difficulty": "easy"
+    },
+    "A49NL1": {
+        "verifiers": [
+            4,
+            6,
+            8,
+            12
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "easy"
+    },
+    "A48CVD": {
+        "verifiers": [
+            2,
+            5,
+            10,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "easy"
+    },
+    "A41FXM": {
+        "verifiers": [
+            2,
+            13,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "311",
+        "difficulty": "easy"
+    },
+    "A449EK": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "253",
+        "difficulty": "easy"
+    },
+    "B5RLAR": {
+        "verifiers": [
+            3,
+            7,
+            10,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "534",
+        "difficulty": "medium"
+    },
+    "B5JPPL": {
+        "verifiers": [
+            2,
+            6,
+            9,
+            15,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "351",
+        "difficulty": "medium"
+    },
+    "B5RH7L": {
+        "verifiers": [
+            3,
+            5,
+            11,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "233",
+        "difficulty": "medium"
+    },
+    "B521VQ6": {
+        "verifiers": [
+            3,
+            8,
+            13,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "322",
+        "difficulty": "medium"
+    },
+    "B5VIP4": {
+        "verifiers": [
+            4,
+            8,
+            12,
+            18,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "341",
+        "difficulty": "medium"
+    },
+    "B5WSJF": {
+        "verifiers": [
+            4,
+            7,
+            8,
+            14,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "253",
+        "difficulty": "medium"
+    },
+    "B51842J": {
+        "verifiers": [
+            1,
+            6,
+            15,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "medium"
+    },
+    "B51LDBL": {
+        "verifiers": [
+            3,
+            8,
+            11,
+            14,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "543",
+        "difficulty": "medium"
+    },
+    "B51EHF9": {
+        "verifiers": [
+            2,
+            12,
+            17,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "513",
+        "difficulty": "medium"
+    },
+    "B519PQ2": {
+        "verifiers": [
+            1,
+            9,
+            14,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "245",
+        "difficulty": "medium"
+    },
+    "B52GWJY": {
+        "verifiers": [
+            5,
+            8,
+            13,
+            16,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "medium"
+    },
+    "B5JSMF": {
+        "verifiers": [
+            2,
+            6,
+            13,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "315",
+        "difficulty": "medium"
+    },
+    "B5GFUZ": {
+        "verifiers": [
+            1,
+            7,
+            10,
+            17,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "112",
+        "difficulty": "medium"
+    },
+    "B5250TH": {
+        "verifiers": [
+            4,
+            7,
+            10,
+            19,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "medium"
+    },
+    "B520HBL": {
+        "verifiers": [
+            3,
+            5,
+            15,
+            18,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "413",
+        "difficulty": "medium"
+    },
+    "B51LRVS": {
+        "verifiers": [
+            3,
+            9,
+            14,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "medium"
+    },
+    "B51D0K4": {
+        "verifiers": [
+            2,
+            6,
+            13,
+            18,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "442",
+        "difficulty": "medium"
+    },
+    "B51VD2I": {
+        "verifiers": [
+            2,
+            7,
+            10,
+            16,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "145",
+        "difficulty": "medium"
+    },
+    "B523D2E": {
+        "verifiers": [
+            4,
+            5,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "433",
+        "difficulty": "medium"
+    },
+    "B52DTVF": {
+        "verifiers": [
+            6,
+            8,
+            12,
+            18,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "medium"
+    },
+    "B5RT5S": {
+        "verifiers": [
+            3,
+            5,
+            10,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "332",
+        "difficulty": "medium"
+    },
+    "B52KW5O": {
+        "verifiers": [
+            7,
+            12,
+            15,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "153",
+        "difficulty": "medium"
+    },
+    "B52HTXX": {
+        "verifiers": [
+            5,
+            12,
+            14,
+            18,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "535",
+        "difficulty": "medium"
+    },
+    "B51E3NU": {
+        "verifiers": [
+            2,
+            8,
+            14,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "medium"
+    },
+    "A525TA3": {
+        "verifiers": [
+            4,
+            9,
+            13,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "easy"
+    },
+    "A51K8U0": {
+        "verifiers": [
+            3,
+            5,
+            9,
+            11,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "453",
+        "difficulty": "easy"
+    },
+    "A51DLGK": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            13,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "easy"
+    },
+    "A52IL57": {
+        "verifiers": [
+            6,
+            8,
+            11,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "easy"
+    },
+    "A520F9P": {
+        "verifiers": [
+            3,
+            5,
+            9,
+            12,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "easy"
+    },
+    "A518FK8": {
+        "verifiers": [
+            1,
+            7,
+            13,
+            14,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "254",
+        "difficulty": "easy"
+    },
+    "A5VP36": {
+        "verifiers": [
+            4,
+            9,
+            13,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "144",
+        "difficulty": "easy"
+    },
+    "A5SOID": {
+        "verifiers": [
+            3,
+            7,
+            8,
+            11,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "231",
+        "difficulty": "easy"
+    },
+    "A518FRM": {
+        "verifiers": [
+            1,
+            7,
+            12,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A51V92Z": {
+        "verifiers": [
+            2,
+            7,
+            8,
+            13,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "easy"
+    },
+    "A5UTBT": {
+        "verifiers": [
+            4,
+            5,
+            8,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "344",
+        "difficulty": "easy"
+    },
+    "A52J977": {
+        "verifiers": [
+            6,
+            10,
+            11,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "easy"
+    },
+    "A5192FC": {
+        "verifiers": [
+            1,
+            6,
+            12,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "353",
+        "difficulty": "easy"
+    },
+    "A51KOOR": {
+        "verifiers": [
+            3,
+            7,
+            9,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "easy"
+    },
+    "A5GDFH": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            15,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "145",
+        "difficulty": "easy"
+    },
+    "A51VKYW": {
+        "verifiers": [
+            2,
+            8,
+            13,
+            14,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "244",
+        "difficulty": "easy"
+    },
+    "A5WUO8": {
+        "verifiers": [
+            4,
+            7,
+            10,
+            12,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "251",
+        "difficulty": "easy"
+    },
+    "A5199K3": {
+        "verifiers": [
+            1,
+            7,
+            11,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "335",
+        "difficulty": "easy"
+    },
+    "A51KHJY": {
+        "verifiers": [
+            3,
+            6,
+            9,
+            14,
+            17
+        ],
+        "active_criteria": [],
+        "answer": "541",
+        "difficulty": "easy"
+    },
+    "A5WNJE": {
+        "verifiers": [
+            4,
+            5,
+            8,
+            12,
+            15
+        ],
+        "active_criteria": [],
+        "answer": "353",
+        "difficulty": "easy"
+    },
+    "A5UXT7": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            13,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "easy"
+    },
+    "A51DQUU": {
+        "verifiers": [
+            2,
+            7,
+            9,
+            13,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "443",
+        "difficulty": "easy"
+    },
+    "A5KAAC": {
+        "verifiers": [
+            2,
+            8,
+            11,
+            15,
+            16
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "easy"
+    },
+    "A520VJX": {
+        "verifiers": [
+            3,
+            7,
+            8,
+            12,
+            14
+        ],
+        "active_criteria": [],
+        "answer": "524",
+        "difficulty": "easy"
+    },
+    "C52827M": {
+        "verifiers": [
+            8,
+            19,
+            23,
+            25,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "hard"
+    },
+    "C51KBSY": {
+        "verifiers": [
+            5,
+            11,
+            32,
+            36,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "453",
+        "difficulty": "hard"
+    },
+    "C51HVYP": {
+        "verifiers": [
+            9,
+            16,
+            24,
+            31,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "452",
+        "difficulty": "hard"
+    },
+    "C52MYLZ": {
+        "verifiers": [
+            9,
+            24,
+            37,
+            42,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "315",
+        "difficulty": "hard"
+    },
+    "C52DRHW": {
+        "verifiers": [
+            6,
+            8,
+            34,
+            38,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "224",
+        "difficulty": "hard"
+    },
+    "C5J2MJ": {
+        "verifiers": [
+            7,
+            27,
+            29,
+            35,
+            36
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "hard"
+    },
+    "C5NYP4": {
+        "verifiers": [
+            5,
+            21,
+            30,
+            39,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "hard"
+    },
+    "C5201U5": {
+        "verifiers": [
+            14,
+            18,
+            24,
+            38,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "351",
+        "difficulty": "hard"
+    },
+    "C51W7WB": {
+        "verifiers": [
+            12,
+            17,
+            24,
+            40,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "232",
+        "difficulty": "hard"
+    },
+    "C5UGXU": {
+        "verifiers": [
+            16,
+            30,
+            33,
+            41,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "hard"
+    },
+    "C5H5G9": {
+        "verifiers": [
+            2,
+            20,
+            23,
+            39,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "315",
+        "difficulty": "hard"
+    },
+    "C5X8HC": {
+        "verifiers": [
+            20,
+            28,
+            31,
+            38,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "331",
+        "difficulty": "hard"
+    },
+    "C520JPB": {
+        "verifiers": [
+            26,
+            33,
+            34,
+            37,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "422",
+        "difficulty": "hard"
+    },
+    "C51CB4Q": {
+        "verifiers": [
+            21,
+            22,
+            26,
+            36,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "512",
+        "difficulty": "hard"
+    },
+    "C529DKD": {
+        "verifiers": [
+            14,
+            18,
+            25,
+            33,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "152",
+        "difficulty": "hard"
+    },
+    "C5KNAB": {
+        "verifiers": [
+            7,
+            15,
+            30,
+            39,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "411",
+        "difficulty": "hard"
+    },
+    "C5104JV": {
+        "verifiers": [
+            4,
+            5,
+            23,
+            29,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "333",
+        "difficulty": "hard"
+    },
+    "C5QAPO": {
+        "verifiers": [
+            19,
+            24,
+            31,
+            36,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "hard"
+    },
+    "C52JFBS": {
+        "verifiers": [
+            21,
+            23,
+            33,
+            34,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "hard"
+    },
+    "C5H33W": {
+        "verifiers": [
+            28,
+            35,
+            38,
+            47,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "133",
+        "difficulty": "hard"
+    },
+    "C52NXDR": {
+        "verifiers": [
+            17,
+            25,
+            34,
+            38,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "334",
+        "difficulty": "hard"
+    },
+    "C5QX7N": {
+        "verifiers": [
+            20,
+            24,
+            27,
+            40,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "hard"
+    },
+    "C51SA5S": {
+        "verifiers": [
+            13,
+            17,
+            40,
+            42,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "144",
+        "difficulty": "hard"
+    },
+    "C51ZW2C": {
+        "verifiers": [
+            3,
+            11,
+            26,
+            36,
+            37
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "hard"
+    },
+    "B5H1NX": {
+        "verifiers": [
+            1,
+            10,
+            15,
+            18,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "medium"
+    },
+    "B519MZM": {
+        "verifiers": [
+            1,
+            9,
+            13,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "511",
+        "difficulty": "medium"
+    },
+    "B5S1WF": {
+        "verifiers": [
+            3,
+            7,
+            9,
+            12,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "medium"
+    },
+    "B518B98": {
+        "verifiers": [
+            1,
+            7,
+            10,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "medium"
+    },
+    "B52GR8Z": {
+        "verifiers": [
+            5,
+            8,
+            13,
+            18,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "335",
+        "difficulty": "medium"
+    },
+    "B5VYMX": {
+        "verifiers": [
+            4,
+            17,
+            19,
+            20,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "341",
+        "difficulty": "medium"
+    },
+    "B52L915": {
+        "verifiers": [
+            8,
+            12,
+            15,
+            16,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "343",
+        "difficulty": "medium"
+    },
+    "B5V3H4": {
+        "verifiers": [
+            4,
+            7,
+            8,
+            16,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "241",
+        "difficulty": "medium"
+    },
+    "B52EIF7": {
+        "verifiers": [
+            6,
+            10,
+            16,
+            19,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "145",
+        "difficulty": "medium"
+    },
+    "B5GUXI": {
+        "verifiers": [
+            1,
+            7,
+            13,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "medium"
+    },
+    "B51VX0K": {
+        "verifiers": [
+            2,
+            9,
+            15,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "223",
+        "difficulty": "medium"
+    },
+    "B51E6MR": {
+        "verifiers": [
+            2,
+            9,
+            11,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "451",
+        "difficulty": "medium"
+    },
+    "B52N5NX": {
+        "verifiers": [
+            9,
+            11,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "535",
+        "difficulty": "medium"
+    },
+    "B5RKL5": {
+        "verifiers": [
+            3,
+            7,
+            10,
+            12,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "534",
+        "difficulty": "medium"
+    },
+    "B5V3ZV": {
+        "verifiers": [
+            4,
+            7,
+            8,
+            14,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "medium"
+    },
+    "B521D3J": {
+        "verifiers": [
+            3,
+            5,
+            12,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "medium"
+    },
+    "B5KIOR": {
+        "verifiers": [
+            2,
+            13,
+            18,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "353",
+        "difficulty": "medium"
+    },
+    "B51LPUH": {
+        "verifiers": [
+            3,
+            9,
+            13,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "145",
+        "difficulty": "medium"
+    },
+    "B52FQAQ": {
+        "verifiers": [
+            7,
+            9,
+            14,
+            16,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "324",
+        "difficulty": "medium"
+    },
+    "B5JV26": {
+        "verifiers": [
+            2,
+            6,
+            13,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "313",
+        "difficulty": "medium"
+    },
+    "B52BY19": {
+        "verifiers": [
+            5,
+            8,
+            11,
+            14,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "452",
+        "difficulty": "medium"
+    },
+    "B5SO6O": {
+        "verifiers": [
+            3,
+            12,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "533",
+        "difficulty": "medium"
+    },
+    "B51CYH4": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "525",
+        "difficulty": "medium"
+    },
+    "B526A8M": {
+        "verifiers": [
+            4,
+            15,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "medium"
+    },
+    "C51ZLTQ": {
+        "verifiers": [
+            16,
+            24,
+            27,
+            38,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "353",
+        "difficulty": "hard"
+    },
+    "C52O0V5": {
+        "verifiers": [
+            14,
+            18,
+            25,
+            38,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "251",
+        "difficulty": "hard"
+    },
+    "C52N4SO": {
+        "verifiers": [
+            12,
+            17,
+            23,
+            37,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "351",
+        "difficulty": "hard"
+    },
+    "C5G84R": {
+        "verifiers": [
+            15,
+            27,
+            28,
+            33,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "113",
+        "difficulty": "hard"
+    },
+    "C52CP79": {
+        "verifiers": [
+            5,
+            21,
+            35,
+            43,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "212",
+        "difficulty": "hard"
+    },
+    "C51ADLQ": {
+        "verifiers": [
+            1,
+            25,
+            35,
+            38,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "hard"
+    },
+    "C5QL1I": {
+        "verifiers": [
+            2,
+            13,
+            24,
+            29,
+            33
+        ],
+        "active_criteria": [],
+        "answer": "134",
+        "difficulty": "hard"
+    },
+    "C5M080": {
+        "verifiers": [
+            17,
+            27,
+            30,
+            42,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "hard"
+    },
+    "C528L5E": {
+        "verifiers": [
+            19,
+            21,
+            26,
+            37,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "321",
+        "difficulty": "hard"
+    },
+    "C5V6HD": {
+        "verifiers": [
+            9,
+            20,
+            30,
+            33,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "hard"
+    },
+    "C51V6KO": {
+        "verifiers": [
+            2,
+            15,
+            24,
+            33,
+            37
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "hard"
+    },
+    "C525L7U": {
+        "verifiers": [
+            4,
+            18,
+            25,
+            34,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "411",
+        "difficulty": "hard"
+    },
+    "C510Q7Y": {
+        "verifiers": [
+            11,
+            22,
+            29,
+            33,
+            36
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "hard"
+    },
+    "C5H4P0": {
+        "verifiers": [
+            16,
+            19,
+            28,
+            44,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "133",
+        "difficulty": "hard"
+    },
+    "C51EK1Q": {
+        "verifiers": [
+            6,
+            31,
+            38,
+            39,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "333",
+        "difficulty": "hard"
+    },
+    "C5LTIB": {
+        "verifiers": [
+            4,
+            19,
+            25,
+            30,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "hard"
+    },
+    "C520R5J": {
+        "verifiers": [
+            22,
+            24,
+            33,
+            38,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "hard"
+    },
+    "C52KS71": {
+        "verifiers": [
+            7,
+            21,
+            23,
+            43,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "321",
+        "difficulty": "hard"
+    },
+    "C52BE8D": {
+        "verifiers": [
+            17,
+            20,
+            25,
+            27,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "413",
+        "difficulty": "hard"
+    },
+    "C513VV9": {
+        "verifiers": [
+            10,
+            19,
+            24,
+            34,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "154",
+        "difficulty": "hard"
+    },
+    "C525FV4": {
+        "verifiers": [
+            8,
+            16,
+            25,
+            27,
+            35
+        ],
+        "active_criteria": [],
+        "answer": "232",
+        "difficulty": "hard"
+    },
+    "C5XBNC": {
+        "verifiers": [
+            21,
+            32,
+            39,
+            43,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "511",
+        "difficulty": "hard"
+    },
+    "C52BC06": {
+        "verifiers": [
+            23,
+            24,
+            27,
+            42,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "323",
+        "difficulty": "hard"
+    },
+    "C5146RZ": {
+        "verifiers": [
+            3,
+            24,
+            36,
+            41,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "255",
+        "difficulty": "hard"
+    },
+    "B65212E": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            18,
+            19,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "532",
+        "difficulty": "medium"
+    },
+    "B63ZKSN": {
+        "verifiers": [
+            2,
+            9,
+            14,
+            16,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "medium"
+    },
+    "B64Z6E5": {
+        "verifiers": [
+            3,
+            9,
+            12,
+            18,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "121",
+        "difficulty": "medium"
+    },
+    "B64CDAW": {
+        "verifiers": [
+            3,
+            8,
+            13,
+            16,
+            18,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "153",
+        "difficulty": "medium"
+    },
+    "B64B7QQ": {
+        "verifiers": [
+            3,
+            6,
+            9,
+            11,
+            17,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "144",
+        "difficulty": "medium"
+    },
+    "B63TGGZ": {
+        "verifiers": [
+            1,
+            7,
+            10,
+            14,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "345",
+        "difficulty": "medium"
+    },
+    "B64AXO1": {
+        "verifiers": [
+            3,
+            5,
+            10,
+            14,
+            16,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "452",
+        "difficulty": "medium"
+    },
+    "B632A7G": {
+        "verifiers": [
+            2,
+            7,
+            10,
+            13,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "medium"
+    },
+    "B63Z7H1": {
+        "verifiers": [
+            2,
+            7,
+            8,
+            12,
+            18,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "535",
+        "difficulty": "medium"
+    },
+    "B63Y15R": {
+        "verifiers": [
+            2,
+            7,
+            8,
+            14,
+            17,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "524",
+        "difficulty": "medium"
+    },
+    "B64CDWZ": {
+        "verifiers": [
+            3,
+            9,
+            12,
+            15,
+            16,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "141",
+        "difficulty": "medium"
+    },
+    "B63Z4AE": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            13,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "533",
+        "difficulty": "medium"
+    },
+    "B632KFP": {
+        "verifiers": [
+            2,
+            10,
+            15,
+            16,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "medium"
+    },
+    "B630JD8": {
+        "verifiers": [
+            1,
+            10,
+            14,
+            18,
+            19,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "132",
+        "difficulty": "medium"
+    },
+    "B650TQZ": {
+        "verifiers": [
+            4,
+            5,
+            8,
+            13,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "421",
+        "difficulty": "medium"
+    },
+    "B65G3ZA": {
+        "verifiers": [
+            7,
+            10,
+            15,
+            16,
+            20,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "413",
+        "difficulty": "medium"
+    },
+    "B6382UQ": {
+        "verifiers": [
+            3,
+            5,
+            12,
+            17,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "413",
+        "difficulty": "medium"
+    },
+    "B65C8VX": {
+        "verifiers": [
+            7,
+            8,
+            15,
+            17,
+            20,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "524",
+        "difficulty": "medium"
+    },
+    "B64QSA8": {
+        "verifiers": [
+            2,
+            6,
+            9,
+            11,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "115",
+        "difficulty": "medium"
+    },
+    "B65DA4C": {
+        "verifiers": [
+            5,
+            8,
+            15,
+            17,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "medium"
+    },
+    "B64RPPA": {
+        "verifiers": [
+            2,
+            12,
+            16,
+            18,
+            19,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "medium"
+    },
+    "B65BMIJ": {
+        "verifiers": [
+            6,
+            9,
+            13,
+            17,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "225",
+        "difficulty": "medium"
+    },
+    "B63ZHRP": {
+        "verifiers": [
+            2,
+            8,
+            13,
+            18,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "453",
+        "difficulty": "medium"
+    },
+    "B63AMGW": {
+        "verifiers": [
+            4,
+            5,
+            9,
+            14,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "441",
+        "difficulty": "medium"
+    },
+    "C632P10": {
+        "verifiers": [
+            20,
+            22,
+            26,
+            30,
+            39,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "423",
+        "difficulty": "hard"
+    },
+    "C651C17": {
+        "verifiers": [
+            4,
+            18,
+            33,
+            43,
+            46,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "hard"
+    },
+    "C63EVRC": {
+        "verifiers": [
+            9,
+            24,
+            35,
+            36,
+            40,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "hard"
+    },
+    "C64EJ6M": {
+        "verifiers": [
+            3,
+            10,
+            31,
+            33,
+            35,
+            36
+        ],
+        "active_criteria": [],
+        "answer": "212",
+        "difficulty": "hard"
+    },
+    "C64RK1Q": {
+        "verifiers": [
+            22,
+            24,
+            26,
+            43,
+            45,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "122",
+        "difficulty": "hard"
+    },
+    "C659DDL": {
+        "verifiers": [
+            7,
+            16,
+            27,
+            35,
+            36,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "153",
+        "difficulty": "hard"
+    },
+    "C63H9J7": {
+        "verifiers": [
+            10,
+            14,
+            25,
+            33,
+            35,
+            41
+        ],
+        "active_criteria": [],
+        "answer": "214",
+        "difficulty": "hard"
+    },
+    "C639J0D": {
+        "verifiers": [
+            17,
+            24,
+            30,
+            31,
+            34,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "542",
+        "difficulty": "hard"
+    },
+    "C6405KY": {
+        "verifiers": [
+            15,
+            17,
+            32,
+            34,
+            36,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "435",
+        "difficulty": "hard"
+    },
+    "C63X36U": {
+        "verifiers": [
+            5,
+            20,
+            26,
+            40,
+            42,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "552",
+        "difficulty": "hard"
+    },
+    "C64HL7C": {
+        "verifiers": [
+            8,
+            15,
+            23,
+            25,
+            27,
+            31
+        ],
+        "active_criteria": [],
+        "answer": "143",
+        "difficulty": "hard"
+    },
+    "C64ZRIZ": {
+        "verifiers": [
+            8,
+            21,
+            25,
+            26,
+            41,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "hard"
+    },
+    "C63H0D0": {
+        "verifiers": [
+            6,
+            18,
+            24,
+            30,
+            35,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "324",
+        "difficulty": "hard"
+    },
+    "C63RCOY": {
+        "verifiers": [
+            1,
+            11,
+            27,
+            33,
+            34,
+            38
+        ],
+        "active_criteria": [],
+        "answer": "243",
+        "difficulty": "hard"
+    },
+    "C63HLRD": {
+        "verifiers": [
+            17,
+            20,
+            26,
+            31,
+            41,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "hard"
+    },
+    "C639UAR": {
+        "verifiers": [
+            19,
+            30,
+            39,
+            44,
+            45,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "hard"
+    },
+    "C63U5GW": {
+        "verifiers": [
+            19,
+            21,
+            31,
+            34,
+            36,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "234",
+        "difficulty": "hard"
+    },
+    "C64M824": {
+        "verifiers": [
+            22,
+            25,
+            27,
+            33,
+            38,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "115",
+        "difficulty": "hard"
+    },
+    "C6350FU": {
+        "verifiers": [
+            2,
+            18,
+            28,
+            33,
+            35,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "411",
+        "difficulty": "hard"
+    },
+    "C640CYF": {
+        "verifiers": [
+            3,
+            23,
+            24,
+            33,
+            37,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "225",
+        "difficulty": "hard"
+    },
+    "C636Q3X": {
+        "verifiers": [
+            25,
+            27,
+            29,
+            31,
+            42,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "hard"
+    },
+    "C63GDU5": {
+        "verifiers": [
+            8,
+            22,
+            26,
+            30,
+            35,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "244",
+        "difficulty": "hard"
+    },
+    "C63U3G7": {
+        "verifiers": [
+            10,
+            21,
+            25,
+            31,
+            38,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "415",
+        "difficulty": "hard"
+    },
+    "C63GMD6": {
+        "verifiers": [
+            13,
+            16,
+            23,
+            24,
+            27,
+            30
+        ],
+        "active_criteria": [],
+        "answer": "314",
+        "difficulty": "hard"
+    },
+    "B63Y61Z": {
+        "verifiers": [
+            2,
+            5,
+            9,
+            11,
+            16,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "411",
+        "difficulty": "medium"
+    },
+    "B63Z4F4": {
+        "verifiers": [
+            2,
+            6,
+            10,
+            17,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "532",
+        "difficulty": "medium"
+    },
+    "B65AJC5": {
+        "verifiers": [
+            5,
+            8,
+            14,
+            16,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "452",
+        "difficulty": "medium"
+    },
+    "B64YCGM": {
+        "verifiers": [
+            3,
+            5,
+            9,
+            11,
+            17,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "medium"
+    },
+    "B653Q7C": {
+        "verifiers": [
+            4,
+            9,
+            13,
+            15,
+            16,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "522",
+        "difficulty": "medium"
+    },
+    "B63ZKHX": {
+        "verifiers": [
+            2,
+            9,
+            11,
+            16,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "551",
+        "difficulty": "medium"
+    },
+    "B63B4GE": {
+        "verifiers": [
+            4,
+            12,
+            16,
+            19,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "342",
+        "difficulty": "medium"
+    },
+    "B64Z59Z": {
+        "verifiers": [
+            3,
+            8,
+            12,
+            16,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "medium"
+    },
+    "B632GLN": {
+        "verifiers": [
+            2,
+            7,
+            13,
+            18,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "341",
+        "difficulty": "medium"
+    },
+    "B63YWZ6": {
+        "verifiers": [
+            2,
+            6,
+            8,
+            13,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "535",
+        "difficulty": "medium"
+    },
+    "B6328C4": {
+        "verifiers": [
+            2,
+            6,
+            13,
+            16,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "medium"
+    },
+    "B64XOHT": {
+        "verifiers": [
+            3,
+            6,
+            8,
+            16,
+            19,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "124",
+        "difficulty": "medium"
+    },
+    "B64QLCJ": {
+        "verifiers": [
+            2,
+            5,
+            12,
+            18,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "131",
+        "difficulty": "medium"
+    },
+    "B65CHW5": {
+        "verifiers": [
+            7,
+            9,
+            12,
+            18,
+            21,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "324",
+        "difficulty": "medium"
+    },
+    "B64BQ3S": {
+        "verifiers": [
+            3,
+            5,
+            9,
+            12,
+            17,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "542",
+        "difficulty": "medium"
+    },
+    "B64AXKP": {
+        "verifiers": [
+            3,
+            5,
+            10,
+            14,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "452",
+        "difficulty": "medium"
+    },
+    "B630D3A": {
+        "verifiers": [
+            1,
+            7,
+            10,
+            11,
+            17,
+            22
+        ],
+        "active_criteria": [],
+        "answer": "154",
+        "difficulty": "medium"
+    },
+    "B65FZLN": {
+        "verifiers": [
+            7,
+            10,
+            11,
+            14,
+            17,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "521",
+        "difficulty": "medium"
+    },
+    "B638200": {
+        "verifiers": [
+            3,
+            5,
+            12,
+            18,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "medium"
+    },
+    "B63YRWE": {
+        "verifiers": [
+            2,
+            5,
+            9,
+            14,
+            18,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "531",
+        "difficulty": "medium"
+    },
+    "B64Z2NV": {
+        "verifiers": [
+            3,
+            8,
+            13,
+            18,
+            19,
+            21
+        ],
+        "active_criteria": [],
+        "answer": "325",
+        "difficulty": "medium"
+    },
+    "B63T91P": {
+        "verifiers": [
+            1,
+            7,
+            9,
+            11,
+            15,
+            19
+        ],
+        "active_criteria": [],
+        "answer": "225",
+        "difficulty": "medium"
+    },
+    "B63T2W8": {
+        "verifiers": [
+            1,
+            6,
+            10,
+            14,
+            16,
+            20
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "medium"
+    },
+    "B64B6LR": {
+        "verifiers": [
+            3,
+            6,
+            9,
+            13,
+            14,
+            18
+        ],
+        "active_criteria": [],
+        "answer": "144",
+        "difficulty": "medium"
+    },
+    "C64NMOB": {
+        "verifiers": [
+            18,
+            33,
+            38,
+            40,
+            43,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "315",
+        "difficulty": "hard"
+    },
+    "C643H3U": {
+        "verifiers": [
+            3,
+            20,
+            36,
+            39,
+            42,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "123",
+        "difficulty": "hard"
+    },
+    "C633TDN": {
+        "verifiers": [
+            7,
+            19,
+            27,
+            30,
+            41,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "hard"
+    },
+    "C642ETC": {
+        "verifiers": [
+            13,
+            22,
+            24,
+            27,
+            36,
+            39
+        ],
+        "active_criteria": [],
+        "answer": "334",
+        "difficulty": "hard"
+    },
+    "C64HY3Q": {
+        "verifiers": [
+            24,
+            27,
+            38,
+            39,
+            43,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "422",
+        "difficulty": "hard"
+    },
+    "C63AE1Z": {
+        "verifiers": [
+            9,
+            18,
+            23,
+            26,
+            41,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "242",
+        "difficulty": "hard"
+    },
+    "C635XXW": {
+        "verifiers": [
+            2,
+            20,
+            23,
+            24,
+            33,
+            39
+        ],
+        "active_criteria": [],
+        "answer": "113",
+        "difficulty": "hard"
+    },
+    "C64CFS0": {
+        "verifiers": [
+            12,
+            21,
+            25,
+            32,
+            46,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "455",
+        "difficulty": "hard"
+    },
+    "C652LCH": {
+        "verifiers": [
+            12,
+            18,
+            27,
+            33,
+            36,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "321",
+        "difficulty": "hard"
+    },
+    "C630FGI": {
+        "verifiers": [
+            7,
+            11,
+            25,
+            28,
+            45,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "155",
+        "difficulty": "hard"
+    },
+    "C63Z4MZ": {
+        "verifiers": [
+            2,
+            6,
+            24,
+            36,
+            47,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "431",
+        "difficulty": "hard"
+    },
+    "C64GQ8D": {
+        "verifiers": [
+            5,
+            8,
+            23,
+            31,
+            41,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "hard"
+    },
+    "C637RLI": {
+        "verifiers": [
+            8,
+            13,
+            24,
+            29,
+            41,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "235",
+        "difficulty": "hard"
+    },
+    "C64Q3Z2": {
+        "verifiers": [
+            5,
+            23,
+            25,
+            33,
+            40,
+            42
+        ],
+        "active_criteria": [],
+        "answer": "154",
+        "difficulty": "hard"
+    },
+    "C63FW13": {
+        "verifiers": [
+            3,
+            18,
+            30,
+            31,
+            35,
+            43
+        ],
+        "active_criteria": [],
+        "answer": "324",
+        "difficulty": "hard"
+    },
+    "C65H0JV": {
+        "verifiers": [
+            10,
+            21,
+            23,
+            34,
+            36,
+            44
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "hard"
+    },
+    "C6517K8": {
+        "verifiers": [
+            4,
+            6,
+            24,
+            33,
+            35,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "125",
+        "difficulty": "hard"
+    },
+    "C65GYIK": {
+        "verifiers": [
+            9,
+            18,
+            23,
+            25,
+            34,
+            37
+        ],
+        "active_criteria": [],
+        "answer": "513",
+        "difficulty": "hard"
+    },
+    "C63E1KX": {
+        "verifiers": [
+            16,
+            22,
+            29,
+            35,
+            39,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "433",
+        "difficulty": "hard"
+    },
+    "C64E3TG": {
+        "verifiers": [
+            15,
+            17,
+            26,
+            31,
+            33,
+            40
+        ],
+        "active_criteria": [],
+        "answer": "412",
+        "difficulty": "hard"
+    },
+    "C63JKTR": {
+        "verifiers": [
+            1,
+            17,
+            25,
+            40,
+            42,
+            46
+        ],
+        "active_criteria": [],
+        "answer": "354",
+        "difficulty": "hard"
+    },
+    "C63HBMM": {
+        "verifiers": [
+            16,
+            22,
+            34,
+            36,
+            41,
+            45
+        ],
+        "active_criteria": [],
+        "answer": "444",
+        "difficulty": "hard"
+    },
+    "C62ZVHL": {
+        "verifiers": [
+            14,
+            19,
+            32,
+            33,
+            39,
+            47
+        ],
+        "active_criteria": [],
+        "answer": "135",
+        "difficulty": "hard"
+    },
+    "C659GK0": {
+        "verifiers": [
+            16,
+            18,
+            24,
+            41,
+            45,
+            48
+        ],
+        "active_criteria": [],
+        "answer": "433",
+        "difficulty": "hard"
+    }
+}

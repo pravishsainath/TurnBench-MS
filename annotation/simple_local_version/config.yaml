@@ -1,0 +1,4 @@
+result_dir: "data/human_experiment"
+game_setups_dir: "data/configs/game_setups_90_human.json"
+verifier_manager_dir: "data/configs/verifiers_v1.json"
+max_rounds: 10
