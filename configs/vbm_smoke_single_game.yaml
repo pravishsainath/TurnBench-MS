@@ -1,0 +1,55 @@
+running_mode: "single_game"
+
+single_game_config:
+  log_level: "DEBUG"
+  model_name: "gpt-4o-mini"
+  model_provider: "openai"
+  setup_id: "A4XOF"
+  game_result_save_folder: "data/results_smoke"
+  max_rounds: 2
+  game_setups_path: "data/configs/game_setups_270.json"
+  verifier_config_path: "data/configs/verifiers_v1.json"
+  with_reasoning: false
+  with_hint: true
+  mode: "classic"
+
+error_list_config:
+  num_threads: 10
+  log_level: "INFO"
+  error_list_path: "data/experiments/20250509_143635/error_list.json"
+  game_result_save_folder: "data/experiments"
+  game_setups_path: "data/configs/game_setups_270.json"
+  verifier_config_path: "data/configs/verifiers_v1.json"
+
+experiment_config:
+  num_threads: 1
+  log_level: "INFO"
+  game_result_save_folder: "data/experiments"
+  game_setups_path: "data/configs/game_setups_45_model_classic.json"
+  verifier_config_path: "data/configs/verifiers_v1.json"
+  break_point_folder_path: "data/experiments/sample_folder"
+
+  max_rounds: 20
+  with_reasoning:
+    - true
+  with_hint:
+    - true
+  mode:
+    - "classic"
+  model_names:
+    - "gemini-2.5-flash"
+  model_providers:
+    - "openrouter"
+
+game_prompt_names:
+  system_prompt: "system_prompt"
+  proposal_prompt: "proposal_prompt"
+  not_valid_proposal_format_prompt: "not_valid_proposal_format_prompt"
+  first_question_prompt: "first_question_prompt"
+  following_question_prompt: "following_question_prompt"
+  after_last_question_prompt: "after_last_question_prompt"
+  not_valid_verifier_choice_prompt: "not_valid_verifier_choice_prompt"
+  not_valid_question_format_prompt: "not_valid_question_format_prompt"
+  deduce_prompt: "deduce_prompt"
+  not_valid_deduce_format_prompt: "not_valid_deduce_format_prompt"
+  deduce_result_prompt: "deduce_result_prompt"
