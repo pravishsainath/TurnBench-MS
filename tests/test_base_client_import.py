@@ -3,7 +3,7 @@ import sys
 import types
 
 
-def test_base_client_import_and_init_without_network():
+def test_base_client_import_and_init_without_network(monkeypatch):
     fake_openai = types.ModuleType("openai")
 
     class DummyOpenAI:
@@ -20,9 +20,9 @@ def test_base_client_import_and_init_without_network():
 
     fake_pydantic.BaseModel = DummyBaseModel
 
-    sys.modules.pop("llm.providers.base_client", None)
-    sys.modules["openai"] = fake_openai
-    sys.modules["pydantic"] = fake_pydantic
+    monkeypatch.setitem(sys.modules, "openai", fake_openai)
+    monkeypatch.setitem(sys.modules, "pydantic", fake_pydantic)
+    monkeypatch.delitem(sys.modules, "llm.providers.base_client", raising=False)
 
     bc = importlib.import_module("llm.providers.base_client")
     client = bc.LLMClient(api_key="dummy", api_key_env_name="OPENAI_API_KEY")

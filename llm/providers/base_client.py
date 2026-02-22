@@ -39,6 +39,10 @@ class LLMClient:
             "content": text,
         }
 
+        reasoning_content = getattr(message, "reasoning_content", None) if message else None
+        if reasoning_content:
+            model_outputs["model_level_reasoning_content"] = reasoning_content
+
         usage = getattr(response, "usage", None)
         if usage:
             model_outputs.update(
