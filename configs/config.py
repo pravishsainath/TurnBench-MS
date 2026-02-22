@@ -30,6 +30,11 @@ class SingleGameConfigBase(BaseModel):
     with_reasoning: bool
     with_hint: bool
     mode: str
+    prompt_context_mode: str = "turnbench_default"
+    memory_budget_tokens: int = 2048
+    memory_strategy: str = "full_history"
+    distractor_mode: str = "none"
+    distractor_tokens: int = 0
 
 class SingleGameConfig(SingleGameConfigBase, ConfigBase):
     """single game config"""
